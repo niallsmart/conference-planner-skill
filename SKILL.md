@@ -20,9 +20,9 @@ Create a conference config JSON and normalized agenda JSON, then run:
 
 ```bash
 node scripts/build_conference_agenda.mjs \
-  --input /absolute/path/agenda.json \
-  --config /absolute/path/conference.json \
-  --output /absolute/path/conference-agenda.html
+  --input /absolute/path/conference-name/agenda.json \
+  --config /absolute/path/conference-name/conference.json \
+  --output /absolute/path/conference-name/index.html
 ```
 
 The builder provides:
