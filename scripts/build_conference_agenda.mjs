@@ -411,7 +411,7 @@ const html = `<!doctype html>
       color: #7b8995;
       font-size: 1em;
       line-height: 1;
-      vertical-align: -0.06em;
+      vertical-align: baseline;
     }
 
     .session-star:hover { background: transparent; color: #a86400; }
