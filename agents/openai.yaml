@@ -1,0 +1,5 @@
+interface:
+  display_name: "Conference Planner"
+  short_description: "Create a mobile-friendly conference agenda"
+  brand_color: "#112C46"
+  default_prompt: "Use $conference-planner to create a mobile-friendly agenda for this conference"
