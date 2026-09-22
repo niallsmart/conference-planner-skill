@@ -1,0 +1,22 @@
+{
+  "conferenceName": "Blueprint 2026",
+  "agendaTitle": "Blueprint 2026 Personal Agenda",
+  "pageTitle": "Blueprint 2026 Personal Agenda",
+  "venue": "The Venetian",
+  "location": "Las Vegas, Nevada",
+  "dateRange": "September 21–24, 2026",
+  "description": "A mobile-friendly, filterable personal agenda for Blueprint 2026.",
+  "sourceUrl": "https://blueprintvegas.com/agenda/",
+  "sourceLabel": "View the live Blueprint agenda",
+  "retrievedDate": "September 22, 2026",
+  "secondaryTheme": "AI & Robotics",
+  "storageKey": "blueprint-2026",
+  "themeColors": {
+    "AI & Robotics": { "background": "#f5e8bd", "text": "#624b00", "accent": "#d4a72c" },
+    "Commercial": { "background": "#dfeaf4", "text": "#173b59", "accent": "#285a83" },
+    "Construction": { "background": "#e9e4d8", "text": "#55472d", "accent": "#88724a" },
+    "Homebuilding": { "background": "#f1e4d9", "text": "#6a3e23", "accent": "#9b5c30" },
+    "Multi-family": { "background": "#e5eaf4", "text": "#334d76", "accent": "#4e6f9e" },
+    "Networking": { "background": "#dceee8", "text": "#185b4d", "accent": "#27806d" }
+  }
+}

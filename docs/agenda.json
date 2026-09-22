@@ -1,0 +1,4283 @@
+[
+  {
+    "sessionId": "blueprint-2026-4536",
+    "day": "Monday, September 21st, 2026",
+    "time": "5:00 pm - 7:00 pm",
+    "title": "Registration Open",
+    "room": "Venetian 5th Floor",
+    "track": "Venetian 5th Floor",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4537",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "8:00 am - 7:00 pm",
+    "title": "Registration Open",
+    "room": "Venetian 5th Floor",
+    "track": "Venetian 5th Floor",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4581",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "11:30 am - 5:00 pm",
+    "title": "Blueprint Connect Lounge Powered by Inman",
+    "room": "Expo Hall",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4577",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "11:30 am - 5:00 pm",
+    "title": "Women’s Lounge",
+    "room": "Lando 4202",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4125",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "11:30 am - 5:00 pm",
+    "title": "Expo Hall Opens",
+    "room": "Expo Hall",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4078",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:00 pm - 12:10 pm",
+    "title": "Introduction to the Homebuilding Kick-Off Summit",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Homebuilding"
+    ],
+    "speakers": [
+      {
+        "name": "Chris Langford",
+        "title": "Managing Partner",
+        "organization": "Home Technology Ventures"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4090",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:00 pm - 12:10 pm",
+    "title": "Welcome to the SFR & BTR Kickoff Summit",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Gregory Frank",
+        "title": "Founder",
+        "organization": "EverResi Media"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4081",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:00 pm - 12:10 pm",
+    "title": "Introduction to Apartment Strategy Symposium",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Chelsea Kneeland",
+        "title": "Innovation Insider",
+        "organization": "Multifamily Insiders"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4134",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:00 pm - 12:35 pm",
+    "title": "From NIMBY to Anchor: Data Centers as Mixed-Use Catalysts",
+    "description": "Data centers get a bad rap as isolated, community-averse boxes, but that's changing fast. This session unpacks how developers are turning skepticism into support by folding data centers into vibrant mixed-use projects that bring jobs, infrastructure, and energy investment to the neighborhoods around them.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Data Center"
+    ],
+    "speakers": [
+      {
+        "name": "Amy Polvado",
+        "title": "CEO & Founder",
+        "organization": "Facilimax"
+      },
+      {
+        "name": "Richard Krause",
+        "title": "President and CEO",
+        "organization": "Path Construction"
+      },
+      {
+        "name": "Heather Rankow",
+        "title": "Entitlements",
+        "organization": "Mark IV Capital"
+      },
+      {
+        "name": "Dan Wiegmann",
+        "title": "Director of Real Estate",
+        "organization": "RAEDEN"
+      },
+      {
+        "name": "Ben Stohl",
+        "title": "Chief of Staff and Head of Strategy",
+        "organization": "DHL"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4504",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:00 pm - 12:35 pm",
+    "title": "AI Gets Real in Real Estate",
+    "description": "AI in real estate has moved past the hype, and the real edge now belongs to the power users who put it to work. This session brings the practical, the strategic, and the big picture together so executives leave with something to act on Monday and something to bet on for the decade.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Commercial"
+    ],
+    "speakers": [
+      {
+        "name": "Martin Kelly",
+        "title": "President",
+        "organization": "Blueprint"
+      },
+      {
+        "name": "Chris Kelly",
+        "title": "General Partner & Co-Founder",
+        "organization": "Stackpoint"
+      },
+      {
+        "name": "Jonathan Buckelew",
+        "title": "Co-Founder",
+        "organization": "CRE AI Studio"
+      },
+      {
+        "name": "Quinn Edwards",
+        "title": "Co-Founder",
+        "organization": "AI for CRE Collective"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4079",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:10 pm - 12:30 pm",
+    "title": "Spatial AI: The Competitive Advantage Builders Can’t Ignore",
+    "description": "The builders who learn to operate as AI-native organizations first will define the next decade of homebuilding. In this fireside chat we dive into practical ways builders are using spatial AI today to compress design-to-construction timelines from months to weeks, or even days. The result is faster go to market, stronger margins, and a growing operational advantage that everyone else will struggle to match.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Homebuilding"
+    ],
+    "speakers": [
+      {
+        "name": "Matt Hollis",
+        "title": "General Manager",
+        "organization": "Lexar Homes"
+      },
+      {
+        "name": "Michael Bergin",
+        "title": "Chief R&D Officer",
+        "organization": "Higharc"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4142",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:10 pm - 12:45 pm",
+    "title": "Policy, Capital & the Future of Rental Housing",
+    "description": "The legislative and regulatory landscape continues to shape the future of Single-Family Rental and Build-to-Rent, influencing everything from investment strategy and development to operations and long-term growth. This panel tackles the issues impacting today's market, including housing affordability, zoning reform, institutional ownership, and resident protections.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "David Howard",
+        "title": "Principal & Founder",
+        "organization": "Real Estate & Housing Advisors (REHA)"
+      },
+      {
+        "name": "Richard Ross",
+        "title": "CEO",
+        "organization": "Quinn Residences"
+      },
+      {
+        "name": "Gary Beasley",
+        "title": "Co-Founder and Executive Chairman",
+        "organization": "Roofstock"
+      },
+      {
+        "name": "Joseph Negri",
+        "title": "Founder & CEO",
+        "organization": "Evergreen Residential"
+      },
+      {
+        "name": "Dod Fraser",
+        "title": "Co-Founder & CEO",
+        "organization": "Mainstay"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4138",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:10 pm - 12:45 pm",
+    "title": "The Wizard Behind the Curtain: The Invisible Tech Powering AI",
+    "description": "Everyone is talking about AI, but few are talking about the infrastructure that makes it possible. Behind every intelligent workflow is an ecosystem of integrations, APIs, data warehouses, cybersecurity, governance, and connected systems working behind the scenes. This session pulls back the curtain on the often-overlooked technologies that determine whether AI delivers real value or becomes just another disconnected tool. Industry leaders will discuss the foundational data, architecture, and interoperability required to build a technology stack that’s ready for what’s next.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Chelsea Kneeland",
+        "title": "Innovation Insider",
+        "organization": "Multifamily Insiders"
+      },
+      {
+        "name": "Chris Johnson",
+        "title": "COO",
+        "organization": "University Partners"
+      },
+      {
+        "name": "Don Laughlin",
+        "title": "Director of Technology",
+        "organization": "REBNY"
+      },
+      {
+        "name": "Daniel Thomas",
+        "title": "Vice President of Analytics",
+        "organization": "Portico Property Management"
+      },
+      {
+        "name": "Sharon Ourian",
+        "title": "Founder & CEO",
+        "organization": "Melkpm.com"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4137",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:30 pm - 1:05 pm",
+    "title": "What Homebuilders Actually Need from Innovation",
+    "description": "Despite the growing wave of innovation targeting the homebuilding industry, successfully introducing new products and technologies requires a deep understanding of how production homebuilders evaluate, test, and adopt new solutions. Industry leaders will share what they actually look for in innovation, the biggest barriers to adoption, and how startups can better align with the operational realities and priorities of today's homebuilders.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Homebuilding"
+    ],
+    "speakers": [
+      {
+        "name": "Chad Reed",
+        "title": "Vice President of Programs and Strategy",
+        "organization": "Ivory Innovations"
+      },
+      {
+        "name": "David Beznos",
+        "title": "Senior Vice President of Growth and Strategic Partnerships",
+        "organization": "PulteGroup"
+      },
+      {
+        "name": "Damien McBrien",
+        "title": "Director of Strategic Growth & Innovation",
+        "organization": "D.R. Horton"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4140",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:35 pm - 1:10 pm",
+    "title": "One Job, Done Perfectly: The Case for Specialized Robotics in the Built Environment",
+    "description": "August Robotics has successfully deployed hundreds of robots across 4 continents. Their approach—vertical integration and multiple task-specific robots—demonstrates a path forward for automating tasks in both real estate operations and construction. During this conversation between the company founder, client, and investor, we will uncover how teams consider payback period, schedule compression, safety and other unglamorous but critical factors to successfully pair automation with wider operational excellence in the built environment.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Data Center",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Aaron Toppston",
+        "title": "Managing Partner",
+        "organization": "GS Futures"
+      },
+      {
+        "name": "Alex Wyatt",
+        "title": "Founder & CEO",
+        "organization": "August Robotics"
+      },
+      {
+        "name": "Brian Touchard",
+        "title": "Vice President of Operations",
+        "organization": "The Poole and Kent Corporation"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4091",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:40 pm - 12:45 pm",
+    "title": "Welcome to the Hospitality Kick-Off Summit",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Hospitality"
+    ],
+    "speakers": [
+      {
+        "name": "Dionis Rodriguez",
+        "title": "Co-Founder",
+        "organization": "CrimsonCoPilots"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4141",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:45 pm - 1:20 pm",
+    "title": "The Buyer’s Side – Decoding the New Standards in Third-Party PM",
+    "description": "Today's owners expect more than traditional property management. They want strategic partners who protect assets, elevate the resident experience, and deliver measurable results. This panel unpacks what's redefining third-party management partnerships: the operational strategies, performance metrics, technology, and experience initiatives separating high performers from the rest.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Jennifer Stoops",
+        "title": "Vice President of Corporate Development",
+        "organization": "PURE HomeRiver Property Management"
+      },
+      {
+        "name": "Jackie Lee",
+        "title": "CEO",
+        "organization": "Brandywine Homes USA"
+      },
+      {
+        "name": "Traves Bonwell",
+        "title": "CEO",
+        "organization": "RENU Management"
+      },
+      {
+        "name": "Tyson Schuetze",
+        "title": "Founder and Managing Partner",
+        "organization": "Auben Capital Partners"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4139",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:45 pm - 1:20 pm",
+    "title": "What We Deleted This Year",
+    "description": "For years, the industry has focused on adding more technology. Now, leading operators are asking a different question: What can we eliminate? From retiring legacy software and consolidating platforms to reducing logins, cutting costs, and building internal solutions instead of buying another product, this candid conversation explores how the smartest organizations are simplifying their technology ecosystems. Panelists will share what they removed, what surprised them, which categories proved indispensable, and why the best technology decision sometimes is to delete technology altogether.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Chelsea Kneeland",
+        "title": "Innovation Insider",
+        "organization": "Multifamily Insiders"
+      },
+      {
+        "name": "Carol Enoch",
+        "title": "Asset Manager",
+        "organization": "Bridge Partners"
+      },
+      {
+        "name": "Dalia Kalgreen",
+        "title": "VP",
+        "organization": "Unified Residential"
+      },
+      {
+        "name": "Steve Boyack",
+        "title": "Chief Operating Officer",
+        "organization": "JVM Realty"
+      },
+      {
+        "name": "Devang Patel",
+        "title": "SVP, Head of Technology",
+        "organization": "Morgan Properties"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4399",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "12:50 pm - 1:25 pm",
+    "title": "Future of Hospitality",
+    "description": "Every asset class is asking where AI actually moves NOI and where it's just a repackaged feature, and hospitality is answering first and loudest. Four operators sitting at four different pressure points show what's protecting margins right now as AI travel agents reroute bookings, flexible-living categories redraw the map, and a labor crunch reshapes the P&L.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Hospitality"
+    ],
+    "speakers": [
+      {
+        "name": "Dionis Rodriguez",
+        "title": "Co-Founder",
+        "organization": "CrimsonCoPilots"
+      },
+      {
+        "name": "Roman Pedan",
+        "title": "CEO & Founder",
+        "organization": "Kasa"
+      },
+      {
+        "name": "Alex Cabañas",
+        "title": "Executive Chairman",
+        "organization": "Pyramid Global Hospitality"
+      },
+      {
+        "name": "James Gancos",
+        "title": "CEO & Founder",
+        "organization": "The Guestbook"
+      },
+      {
+        "name": "Anil Khera",
+        "title": "Founder & CEO",
+        "organization": "Node"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4507",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:05 pm - 1:25 pm",
+    "title": "Insider Knowledge: How My Role as a Homebuilding Executive is Shaping My Next Startup",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Homebuilding"
+    ],
+    "speakers": [
+      {
+        "name": "Chris Langford",
+        "title": "Managing Partner",
+        "organization": "Home Technology Ventures"
+      },
+      {
+        "name": "Shanna Tellerman",
+        "title": "Founder & CEO",
+        "organization": "Stealth Startup"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4405",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:10 pm - 1:45 pm",
+    "title": "Beyond Ownership: The New Playbook for Retail & Mixed-Use",
+    "description": "Retail centers and mixed-use destinations are no longer defined by square footage, occupancy, or rent alone. Today's most successful places are curated, programmed, technology-enabled environments that function more like operating businesses than traditional real estate assets. As the boundaries between retail, hospitality, entertainment, and community continue to blur, owners and operators face a critical question: What creates value when simply owning the asset is no longer enough? Join leaders from ownership, industry leadership, innovation, and investment as they explore how placemaking, experience, technology, and operational excellence are reshaping the future of real estate and redefining what it takes to win.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Retail"
+    ],
+    "speakers": [
+      {
+        "name": "Whitney Livingston",
+        "title": "Chief Operating Officer",
+        "organization": "ICSC"
+      },
+      {
+        "name": "Paul Kurzawa",
+        "title": "President & CEO",
+        "organization": "Centennial Real Estate"
+      },
+      {
+        "name": "Jay Richard-Yu",
+        "title": "VP, Tech & Innovation",
+        "organization": "Jamestown"
+      },
+      {
+        "name": "Lee Jackson",
+        "title": "Managing Partner",
+        "organization": "Bridgeline"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4561",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:25 pm - 1:40 pm",
+    "title": "Build It at Babcock Ranch",
+    "description": "Hear how America's first solar-powered town became a living lab where startups deploy, test, and scale real technology, and how a new accelerator is recruiting its next resilience cohort. If you are building for the real world, this is where you learn how to get in.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Homebuilding"
+    ],
+    "speakers": [
+      {
+        "name": "Chris Langford",
+        "title": "Managing Partner",
+        "organization": "Home Technology Ventures"
+      },
+      {
+        "name": "Lucienne Pears",
+        "title": "Vice President of Economic & Business Development",
+        "organization": "Kitson & Partners / Babcock Ranch"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4143",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:25 pm - 2:00 pm",
+    "title": "Underwritten “How to value technology in SFR”",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Reshma Block",
+        "title": "Principal & Founder",
+        "organization": "Compass Consulting"
+      },
+      {
+        "name": "CJ Halabi",
+        "title": "Managing Director and the Head of Digital Product, AI & Business Innovation",
+        "organization": "Pretium"
+      },
+      {
+        "name": "Noel Christopher",
+        "title": "Managing Director, Strategy & Growth",
+        "organization": "Genstone"
+      },
+      {
+        "name": "Joe Polverari",
+        "title": "Co-Founder & CEO",
+        "organization": "PURE HomeRiver Property Management"
+      },
+      {
+        "name": "Derek Turner",
+        "title": "Vice President of Strategy & Innovation",
+        "organization": "ILE Homes"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4082",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:25 pm - 2:00 pm",
+    "title": "Your Job in 2027: How AI Is Rewriting Four Core Roles",
+    "description": "Every real estate organization runs on four critical functions: the acquisition specialist who sources and underwrites deals, the asset manager who maximizes portfolio performance, the property manager who runs the physical asset and its operations, and the senior executive managing client and tenant relationships at scale. AI is changing all four — but not equally, not at the same speed, and not in the ways most operators assume. This panel brings together four senior practitioners who run these functions at organizations ranging from data-driven emerging platforms to 130,000-unit property management operations to the largest real estate services firm on the planet. The question is not whether AI changes these roles. It already has. The question is: what specifically disappears, what evolves into something more strategic, and what becomes more human — not less — over the next three years?",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Stuart Bern",
+        "title": "Managing Director",
+        "organization": "JLL"
+      },
+      {
+        "name": "John Carlson",
+        "title": "CEO",
+        "organization": "Mark-Taylor Residential"
+      },
+      {
+        "name": "Craig Lashley",
+        "title": "CEO & President",
+        "organization": "Valiant Residential"
+      },
+      {
+        "name": "Alicia Miller-Yoder",
+        "title": "Head of Capital Markets",
+        "organization": "Black Salmon Capital"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4339",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:25 pm - 2:00 pm",
+    "title": "Beyond the Monthly Lease — How Mixed-Tenure thru Technology unlocks NOI",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Hospitality"
+    ],
+    "speakers": [
+      {
+        "name": "Mike Coscetta",
+        "title": "President",
+        "organization": "Mews"
+      },
+      {
+        "name": "Annie Laurie McCulloh",
+        "title": "Executive Director of Leasing & Loyalty",
+        "organization": "Bilt"
+      },
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      },
+      {
+        "name": "Anil Khera",
+        "title": "Founder & CEO",
+        "organization": "Node"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4402",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:40 pm - 2:15 pm",
+    "title": "No! Technology Is Not a Sweater",
+    "description": "The real estate industry (brokerages and agents) has a habit of collecting technology like clothes in a closet—adding another platform, keeping tools nobody uses, and holding onto subscriptions because someone might need them someday. But technology isn’t your favorite sweater, that you can't part with. Three brokerage leaders take the stage back to back to show how they evaluated their stacks, what earned the right to stay, what got cut, and how they measured adoption, value, and impact. Then, a live Q&A digs into the harder decisions: overlapping platforms, agent resistance, sunk costs, vendor relationships, and what actually changed once they stopped collecting technology and started building a stack with purpose.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Brokerage"
+    ],
+    "speakers": [
+      {
+        "name": "Troy Palmquist",
+        "title": "Founder",
+        "organization": "HomeCode"
+      },
+      {
+        "name": "Jackie Soto",
+        "title": "Broker & Owner",
+        "organization": "ehomes"
+      },
+      {
+        "name": "David Voorhees",
+        "title": "Executive Director of Labs",
+        "organization": "Keller Williams"
+      },
+      {
+        "name": "Stacie Staub",
+        "title": "Co-Founder and CEO",
+        "organization": "West + Main Homes"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4546",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "1:45 pm - 2:05 pm",
+    "title": "Designed at a Desk, Done on a Sidewalk: Processes that Survive the Field",
+    "description": "Operating procedures are written sitting down and carried out on foot. This conversation with Last Mile Investments reviews how to use resistance as design input rather than an obstacle: why a procedure tied to a person collapses the first time someone gets reassigned, what changes when you design for the walk instead of the desk, and how you build something that works at one property and still works across a hundred.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Retail"
+    ],
+    "speakers": [
+      {
+        "name": "Sarah Darling",
+        "title": "Head of Marketing",
+        "organization": "ID Plans"
+      },
+      {
+        "name": "Madonna McAdam",
+        "title": "Vice President of Property Management",
+        "organization": "Last Mile Investments"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4348",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "2:00 pm - 3:00 pm",
+    "title": "Break",
+    "room": "Track 1, Track 2, Track 3, Track 4",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4560",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "2:20 pm - 2:30 pm",
+    "title": "Welcome + Blueprint Bracket Madness Overview",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Bob Gillespie",
+        "title": "Managing Partner - REACH Commercial",
+        "organization": "Second Century Ventures"
+      },
+      {
+        "name": "Matt Knight",
+        "title": "Executive Director",
+        "organization": "FIRE"
+      },
+      {
+        "name": "Sharon Love-Bates",
+        "title": "Director of Emerging Technology",
+        "organization": "National Association of Realtors"
+      },
+      {
+        "name": "Kevin Albert",
+        "title": "General Manager & VP of the Autonomous Solutions Group",
+        "organization": "JLG Industries"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4534",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "2:30 pm - 4:20 pm",
+    "title": "Blueprint Bracket Madness",
+    "description": "17 companies. Four rounds. One champion. Blueprint Bracket Madness puts 17 innovative real estate technology companies into a fast paced, head to head pitch competition inspired by the NCAA Tournament. Companies advance through four rounds, with each round challenging them to reveal a different part of their business, until one company is crowned Blueprint Bracket Madness Champion.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Sharon Love-Bates",
+        "title": "Director of Emerging Technology",
+        "organization": "National Association of Realtors"
+      },
+      {
+        "name": "Robert Cooper",
+        "title": "Cofounder & CEO",
+        "organization": "Embue"
+      },
+      {
+        "name": "Bob Gillespie",
+        "title": "Managing Partner - REACH Commercial",
+        "organization": "Second Century Ventures"
+      },
+      {
+        "name": "Joshua Sklut",
+        "title": "CEO",
+        "organization": "SKLÜT"
+      },
+      {
+        "name": "Ross Chesnick",
+        "title": "Co-Founder & CEO",
+        "organization": "Shortlyst"
+      },
+      {
+        "name": "Carter Russ",
+        "title": "CEO",
+        "organization": "CenterCheck"
+      },
+      {
+        "name": "Maciej Markowski",
+        "title": "CEO",
+        "organization": "SquarePlan"
+      },
+      {
+        "name": "Cody Eddings",
+        "title": "CEO & Co-Founder",
+        "organization": "SnapRefund"
+      },
+      {
+        "name": "Mike Schwab",
+        "title": "CEO",
+        "organization": "Association Online"
+      },
+      {
+        "name": "Itai Tsanaani",
+        "title": "CEO / Co-Founder",
+        "organization": "xREI"
+      },
+      {
+        "name": "Fernando Olloqui",
+        "title": "CEO",
+        "organization": "Licify"
+      },
+      {
+        "name": "Paul Favorov",
+        "title": "CEO",
+        "organization": "HelloPackage"
+      },
+      {
+        "name": "Alejo Dogliani",
+        "title": "CEO",
+        "organization": "SpicyTool"
+      },
+      {
+        "name": "Oscar Villarreal",
+        "title": "CEO",
+        "organization": "0 Suite"
+      },
+      {
+        "name": "Alix Maurin",
+        "title": "Co-Founder & CEO",
+        "organization": "RentFlow"
+      },
+      {
+        "name": "Yonatan Ben Netanel",
+        "title": "CEO",
+        "organization": "Beamware"
+      },
+      {
+        "name": "Prashant Kothari",
+        "title": "Founder",
+        "organization": "Hamilton Ventures"
+      },
+      {
+        "name": "Kevin Hewitt",
+        "title": "Senior Director, ICSC+PROPTECH & New Business Initiatives",
+        "organization": "ICSC"
+      },
+      {
+        "name": "Grayson Gibson",
+        "title": "CEO",
+        "organization": "LotRoll"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4398",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:00 pm - 3:35 pm",
+    "title": "How SFR Wins Next",
+    "description": "The operators pulling ahead in single-family rental are getting sharper on how they run their homes and how they grow revenue. This session gets into what is working now and where the next gains are coming from.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Gregory Frank",
+        "title": "Founder",
+        "organization": "EverResi Media"
+      },
+      {
+        "name": "Dan French",
+        "title": "CEO",
+        "organization": "Northpoint"
+      },
+      {
+        "name": "Mike Hills",
+        "title": "Vice President of Capital Markets",
+        "organization": "Atlas Real Estate"
+      },
+      {
+        "name": "Amy Barricelli",
+        "title": "Executive Vice President, Brand & Revenue Acceleration",
+        "organization": "RR Living"
+      },
+      {
+        "name": "Tyler Ashby",
+        "title": "Partner",
+        "organization": "GroundBreak Ventures"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4083",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:00 pm - 3:10 pm",
+    "title": "Welcome to the RET Multifamily and Single Family Rental Kick-Off Summit",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Christopher Yip",
+        "title": "Partner & Managing Director",
+        "organization": "RET Ventures"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4417",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:00 pm - 3:10 pm",
+    "title": "Introduction to the Construction Technology Summit: Platonic Ideals: Profitable Robots and Where to Build Them",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Raja Ghawi",
+        "title": "Partner",
+        "organization": "Era Ventures"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4144",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:00 pm - 3:35 pm",
+    "title": "Non-Hype AI: Practical Applications Across Real Estate Asset Classes",
+    "description": "AI is transforming real estate — or is it? Where is AI actually delivering results? Join our panel discussion with senior leaders and operators from commercial, multifamily, hospitality, construction, and other sectors for a candid discussion on the real-world applications of AI inside their organizations. From operations and asset management to development, leasing, finance, and customer experience, panelists will share practical use cases, lessons learned, measurable outcomes, and where they see the greatest opportunities ahead — cutting through the hype to focus on what actually works (and what doesn't).",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Alex Shtarkman",
+        "title": "Founder, Managing Partner, and Chief Investment Officer",
+        "organization": "Antithesis Ventures"
+      },
+      {
+        "name": "Mark Stutzman",
+        "title": "Global CTO & Chief Operating and Technology Officer",
+        "organization": "Fisher Brothers & AREA15"
+      },
+      {
+        "name": "Sandhya Espitia",
+        "title": "COO",
+        "organization": "REBNY"
+      },
+      {
+        "name": "Eric Lamb",
+        "title": "Board Member & Managing Director",
+        "organization": "DPR & WND Ventures"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4084",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:15 pm - 3:50 pm",
+    "title": "From Data to Dollars: Turning Operational Insights Into Immediate Value",
+    "description": "Multifamily owners and operators sit on a wealth of operational data, but translating insights into actions remains a challenge. This panel will explore how technology solutions — from predictive maintenance to AI-driven leasing and resident engagement — can close the gap between information and real ROI. Panelists will discuss best practices in leveraging their treasure trove of data, overcoming workflow friction, and best practices to reduce costs, improve efficiency, and enhance the resident experience.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Melissa Fagan",
+        "title": "Vice President",
+        "organization": "RET Ventures"
+      },
+      {
+        "name": "Bobbi Steward",
+        "title": "CEO",
+        "organization": "Revyse"
+      },
+      {
+        "name": "Scott Pechersky",
+        "title": "Founder",
+        "organization": "ECL Prop Solutions"
+      },
+      {
+        "name": "René Bilodeau",
+        "title": "Senior Leader",
+        "organization": "Pacific Urban Investors"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4341",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:15 pm - 3:50 pm",
+    "title": "Robots in the Field: Founders and Their First Customers",
+    "description": "A practical look at what it takes to deploy robotics in the real world, from first pilot to scaled rollout. We'll bring together founders building and shipping robots alongside the customers putting them to work, digging into how deployments actually get done, where they break, and what separates a flashy demo from a durable business.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Construction",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Raja Ghawi",
+        "title": "Partner",
+        "organization": "Era Ventures"
+      },
+      {
+        "name": "Kevin McGlade",
+        "title": "Co‑Founder & CEO",
+        "organization": "Tempo Works"
+      },
+      {
+        "name": "Mihir Somalwar",
+        "title": "Robotics and Physical AI Initiatives Lead",
+        "organization": "Diverge"
+      },
+      {
+        "name": "Cynthia Brosque",
+        "title": "Robotics Lead",
+        "organization": "Hilti Venture"
+      },
+      {
+        "name": "Kevin Albert",
+        "title": "General Manager & VP of the Autonomous Solutions Group",
+        "organization": "JLG Industries"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4097",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:40 pm - 3:45 pm",
+    "title": "Welcome to the NOI Stage",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4116",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:40 pm - 4:15 pm",
+    "title": "Data-Driven Real Estate: Turning Information into an Investment Edge",
+    "description": "As limited partners raise the bar on data standards and managers race to convert that data into alpha, real estate's most sophisticated investors are rethinking how information drives decisions. This panel brings together institutional allocators, quantitative investment leaders, and emerging managers to unpack how data and AI are reshaping underwriting, portfolio construction, and the search for alpha, including what LPs now expect from the managers they back. Expect a practical conversation about real estate data, AI's impact on investment decision-making, and how smaller firms can compete with institutional-grade data infrastructure.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Donal Warde",
+        "title": "Principal",
+        "organization": "Folio Strategy Partners"
+      },
+      {
+        "name": "Ali Haidar",
+        "title": "SVP, Head of Real Estate Portfolio Management",
+        "organization": "GIC"
+      },
+      {
+        "name": "Chris Liedtke",
+        "title": "Managing Director and the Chief Data Scientist",
+        "organization": "BGO"
+      },
+      {
+        "name": "Nicholas Russell",
+        "title": "Managing Director and Head of Business Partner Solutions",
+        "organization": "StepStone Real Estate"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4393",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:45 pm - 3:55 pm",
+    "title": "Modernizing Middle Markets: How Lloyd Jones Drives NOI through AI Where It Matters Most",
+    "description": "Paper health records. 81.4% occupancy. $300K a year in agency staffing. That's what Lloyd Jones inherited when it acquired Baldwin Park, a middle-market senior living community where outdated technology stifled returns. Lloyd Jones CEO Jimmy Carrion outlines how modernizing senior living investment from underwriting to acquisition drives strong returns, including a +65% NOI gain at Baldwin Park in the first 12 months.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Jimmy Carrion",
+        "title": "President and CEO",
+        "organization": "Lloyd Jones"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4085",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:50 pm - 4:25 pm",
+    "title": "AI in Action: Turning Operational Data into Real ROI",
+    "description": "Artificial intelligence is no longer a futuristic concept, it’s a practical tool transforming multifamily operations. This panel will dive into how owners and operators can set up the right data infrastructure, deploy AI-driven solutions, and extract tangible value across property management, maintenance, leasing, and resident engagement. Panelists will share real-world examples of AI applications delivering measurable ROI, discuss challenges in integrating new technology into existing workflows, and provide guidance on prioritizing initiatives that improve efficiency, reduce costs, and enhance resident satisfaction.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Jameson Hartman",
+        "title": "Industry Principal",
+        "organization": "RET Ventures"
+      },
+      {
+        "name": "Paul Seifert",
+        "title": "EVP Operations, Chief Legal Officer",
+        "organization": "Continental"
+      },
+      {
+        "name": "Mariana Estrada",
+        "title": "Chief Strategy Officer",
+        "organization": "RPM Living"
+      },
+      {
+        "name": "Sorin Michnea",
+        "title": "CTO",
+        "organization": "SuiteSpot"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4361",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:50 pm - 4:25 pm",
+    "title": "Building for the AI Boom: Inside the Data Center Construction Supercycle",
+    "description": "AI has turned data centers into the defining construction story of the decade. Delivering them means compressing years of power, cooling, and structural complexity into ever-shorter timelines. This panel brings the full value chain onto one stage: the compute demand driving the buildout, the owners commissioning it, the modular infrastructure reshaping how it's delivered, and the general contractors putting it in the ground. Expect a candid, free-flowing conversation on the real bottlenecks - power and grid access, cooling, supply chain, labor, and prefabrication plus where capital and innovation are flowing next, and what the AI compute roadmap means for what actually gets built. A rare cross-section of the people building the physical backbone of AI.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Construction",
+      "Data Center"
+    ],
+    "speakers": [
+      {
+        "name": "Les Karpas",
+        "title": "Inception Global Head of Physical AI",
+        "organization": "NVIDIA"
+      },
+      {
+        "name": "Vivin Hegde",
+        "title": "Managing Partner & Founder",
+        "organization": "Zacua Ventures"
+      },
+      {
+        "name": "Adam Rogers",
+        "title": "General Manager",
+        "organization": "Hensel Phelps’ Mission Critical Integrated Solution (MCIS) Group"
+      },
+      {
+        "name": "Andrew Lindsey",
+        "title": "Founder & CEO",
+        "organization": "Flexnode"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4585",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "3:55 pm - 4:05 pm",
+    "title": "NOI at the Speed of AI",
+    "description": "NOI is a simple formula, but every input behind it is slow, manual, and expensive. In this session, Stack AI will show how leading real estate organizations are using AI agents to automate the full underwriting stack, from market studies to investment memos, and what that means for deal velocity and returns.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Harrison Macdonald",
+        "title": "Enterprise AI Specialist",
+        "organization": "Stack AI"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4423",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "4:05 pm - 4:25 pm",
+    "title": "AI Regulations Are Here. Your Portfolio Is in Scope. Now What?",
+    "description": "This session does two things no other session will do. First, it translates the AI regulatory landscape into operator language. Not legal language. Not policy language. Language that a VP of Operations, a CIO, and an investor can all understand and act on. Second, it shows every person in the room how to build the governance foundation that responds to those regulations. Not theory. A working framework grounded in the NIST AI Risk Management Framework that they start building during the session and take back to their organization.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Kevin Donnelly",
+        "title": "Executive Director and Chief Advocacy Officer",
+        "organization": "Real Estate Technology & Transformation Center (RETTC)"
+      },
+      {
+        "name": "Tami Siewruk",
+        "title": "Founder & Managing Partner",
+        "organization": "Multifamily NEXT"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4401",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "4:20 pm - 4:55 pm",
+    "title": "Where Capital Goes From Here",
+    "description": "Active investors with deep real estate roots share where capital is moving across the built world and which categories are attracting the most attention right now. Expect a clear perspective on what owners, operators, and innovators should watch as the next wave of investment takes shape.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Prashant Kothari",
+        "title": "Founder",
+        "organization": "Hamilton Ventures"
+      },
+      {
+        "name": "Sheldon Lewis",
+        "title": "Managing Partner & Co-Founder",
+        "organization": "Blueprint Equity"
+      },
+      {
+        "name": "Zach Aarons",
+        "title": "Co-Founder & General Partner",
+        "organization": "MetaProp"
+      },
+      {
+        "name": "Alon Gorbonos",
+        "title": "General Partner & Founder",
+        "organization": "RE VC"
+      },
+      {
+        "name": "David S. Rose",
+        "title": "Chairman & CEO",
+        "organization": "USREM"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4118",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "4:25 pm - 5:00 pm",
+    "title": "Scale It or Kill It: How CRE Operators Are Making Smarter Pilot Decisions",
+    "description": "Running a pilot is the easy part. Knowing when to scale and when to stop is where most teams get stuck. A panel of real estate owner/operators will share firsthand experience across technology initiatives -- specifically, what success actually looks like, how to recognize when a pilot has real legs versus when it's time to shut it down, and what separates the deployments that scaled from the ones that quietly disappeared. Leave with practical guidance and real lessons you can put to work on your next technology decision.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Commercial"
+    ],
+    "speakers": [
+      {
+        "name": "David Blumenfeld",
+        "title": "Co-Founder",
+        "organization": "NextRivet"
+      },
+      {
+        "name": "James Scott",
+        "title": "Director of Industry and Professional Programs, and Director of the Real Estate Transformation Lab",
+        "organization": "MIT’s Center for Real Estate"
+      },
+      {
+        "name": "Mickey Papillon",
+        "title": "Vice President, Technology Strategy",
+        "organization": "Irvine Company Retail Properties"
+      },
+      {
+        "name": "Tom Furphy",
+        "title": "CEO & Managing Director",
+        "organization": "Consumer Equity Partners"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4455",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "4:25 pm - 5:00 pm",
+    "title": "The Great Capital Debate: How do CRE Investors think about M&A, Scale, and Future of Capital in the time of AI?",
+    "description": "CEOs, Asset Managers, and Investors take on the old saying “if you build it they will come”, which held true for decades... until now. We’ll dive into how various capital groups assess growth and M&A in housing and mixed use. This panel of experts will break down their perspectives on shifting investment trends and address misconceptions across asset and capital classes—from institutional, Private Equity, Family Office to Venture Capital in the time of AI.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Chris Moreno",
+        "title": "Senior Tech Advisor",
+        "organization": "RETTC"
+      },
+      {
+        "name": "Lloyd Grosklags",
+        "title": "Partner",
+        "organization": "C2G Asset Management"
+      },
+      {
+        "name": "Tim Perry",
+        "title": "Chief Investment Officer",
+        "organization": "Jamestown"
+      },
+      {
+        "name": "Glenn Mathis",
+        "title": "CEO",
+        "organization": "RangeWater Residential"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4487",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "4:25 pm - 4:45 pm",
+    "title": "The 100,000-Home Operating System: AI, Scale, and the New Rules of Single-Family Rental",
+    "description": "America's largest SFR platform runs on data — nearly 100,000 homes across 30+ markets, no leasing office, no on-site staff, just software and a commitment to residents. In a landmark year for both AI and housing regulation, Progress Residential CEO Dave Feldman joins RET's Christopher Yip on what it actually takes to operate at that scale: agentic AI in leasing and maintenance, the pivot from buying homes to building them, and how the industry's most-watched operator is turning a challenging political moment into an operating advantage. A candid look at where the puck is going, for anyone who owns or operates rental housing.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Christopher Yip",
+        "title": "Partner & Managing Director",
+        "organization": "RET Ventures"
+      },
+      {
+        "name": "Dave Feldman",
+        "title": "CEO",
+        "organization": "Progress Residential"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4089",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "4:25 pm - 5:00 pm",
+    "title": "From Pilot to Platform: How Construction AI Delivers Measurable ROI",
+    "description": "Construction firms are inundated with project data, yet teams still spend countless hours searching for information, coordinating documents, and managing risk. This panel brings together a technology builder, a general contractor, an investor, and an innovation leader to explore how AI is moving beyond the hype and delivering measurable results in the field. Through the lens of Primepoint's partnership with Sundt Construction, the discussion will explore what it takes to build, validate, and scale AI solutions that create real operational value and why proving ROI is the key to moving from pilot projects to enterprise-wide adoption.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Construction",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Rachael Ferrera",
+        "title": "Manager, Investments & Ideation",
+        "organization": "Zachry Construction Corporation"
+      },
+      {
+        "name": "Travis Putnam",
+        "title": "Co-Founder & Managing Partner",
+        "organization": "Navitas Capital"
+      },
+      {
+        "name": "Kamran Azarbal",
+        "title": "VP Strategy",
+        "organization": "Primepoint"
+      },
+      {
+        "name": "Brody Slaugenhoup",
+        "title": "Enterprise Project Engineer",
+        "organization": "Sundt Construction"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4471",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "4:45 pm - 5:00 pm",
+    "title": "AI Agents 2.0: Building What Rental Owner/Operators Actually Need",
+    "description": "The next generation of AI agents leveraging the rapid advances of the frontier models are being built. What does it take for these new AI-native startups to both partner with and innovate vs incumbent platforms? Two founders will discuss where they see opportunities to outperform embedded AI tools, why owners choose to buy rather than build and how AI is changing the way startups themselves build and ship products.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Aaron Ru",
+        "title": "Principal",
+        "organization": "RET Ventures"
+      },
+      {
+        "name": "Ruchir Baronia",
+        "title": "Founder & CEO",
+        "organization": "AI Frontdesk"
+      },
+      {
+        "name": "Maximilian Gajdel",
+        "title": "Co-Founder",
+        "organization": "STAN AI"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4349",
+    "day": "Tuesday, September 22nd, 2026",
+    "time": "5:00 pm - 7:00 pm",
+    "title": "Kickoff Party",
+    "room": "Marcello Ballroom",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4457",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "7:00 am - 8:00 am",
+    "title": "Breakfast",
+    "room": "Marcello Ballroom",
+    "track": "All Tracks",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4538",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "7:00 am - 5:00 pm",
+    "title": "Registration Open",
+    "room": "Venetian 5th Floor",
+    "track": "Venetian 5th Floor",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4472",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "8:00 am - 8:10 am",
+    "title": "Welcome to Blueprint!",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Tom Bohn",
+        "title": "CEO",
+        "organization": "Inman"
+      },
+      {
+        "name": "Martin Kelly",
+        "title": "President",
+        "organization": "Blueprint"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4336",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "8:10 am - 8:30 am",
+    "title": "The Attention Algorithm: Building The Future on AI-Native Infrastructure",
+    "description": "Ryan Serhant didn't just build a following. He built an attention eco-system. SERHANT. is the first brokerage architected from the ground up around content, data, entertainment, education and AI as a unifying customer-acquisition engine. In conversation with Camber Creek's Jeff Berman, Serhant breaks down how the brokerage of the future gets built, how a sales machine can be reinvented for today’s marketplace, and what operators across the industry can learn from it.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Brokerage",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Jeffrey Berman",
+        "title": "General Partner",
+        "organization": "Camber Creek"
+      },
+      {
+        "name": "Ryan Serhant",
+        "title": "CEO & Founder",
+        "organization": "SERHANT."
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4094",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "8:30 am - 8:50 am",
+    "title": "Building Rentals at Scale",
+    "description": "Running 60,000 rental homes while developing thousands more a year forces hard choices about where centralization, staffing, and technology actually move NOI. AMH CEO Bryan Smith joins Fifth Wall's Brendan Wallace to share what scales across a national portfolio and what still has to be solved building by building.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Brendan Wallace",
+        "title": "CEO & Chief Investment Officer",
+        "organization": "Fifth Wall"
+      },
+      {
+        "name": "Bryan Smith",
+        "title": "CEO & Trustee",
+        "organization": "AMH Homes"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4095",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "8:50 am - 9:10 am",
+    "title": "Powering the AI Boom",
+    "description": "Data centers have become the asset class every owner and investor is trying to understand, and the constraints are now land, power, and capital rather than demand. Digital Realty CEO Andy Power joins Fifth Wall's Brendan Wallace to map where the opportunities and bottlenecks sit for anyone allocating capital to digital infrastructure.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Data Center"
+    ],
+    "speakers": [
+      {
+        "name": "Brendan Wallace",
+        "title": "CEO & Chief Investment Officer",
+        "organization": "Fifth Wall"
+      },
+      {
+        "name": "Andy Power",
+        "title": "CEO & President",
+        "organization": "Digital Realty"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4131",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "9:10 am - 9:30 am",
+    "title": "Moneyball for In-Person Sales: What’s Really Happening in Your On-Site Tours",
+    "description": "Sebastian Jimenez, CEO of Rilla, shares data from millions of in-person sales conversations across outside sales teams revealing what separates top performers from everyone else, and what mulitfamilly operators can learn from industries that have cracked the code on in-person sales coaching to increase their occupancy rates.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      },
+      {
+        "name": "Victor Aguilar",
+        "title": "Director of Operations",
+        "organization": "Carbon Thompson Management"
+      },
+      {
+        "name": "Pete Orfanos",
+        "title": "Director of Strategic Accounts",
+        "organization": "Rilla"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4096",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "9:30 am - 9:50 am",
+    "title": "The Vertically Integrated Bet: Building for the Resident, Wall to Wall",
+    "description": "Twenty years ago, Cortland made a contrarian decision: that multifamily was becoming a consumer business, and that the only way to deliver a hospitality-grade resident experience was to own every touchpoint that shapes it — design, construction, and operations, in-house. Founder and CEO Steven DeFrancis joins RET Ventures' Christopher Yip to unpack how that single conviction drives everything downstream: how Cortland underwrites, where it creates differentiation, what it builds versus buys in technology, and where vertical integration pays off.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Christopher Yip",
+        "title": "Partner & Managing Director",
+        "organization": "RET Ventures"
+      },
+      {
+        "name": "Steven DeFrancis",
+        "title": "Founder & CEO",
+        "organization": "Cortland"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4535",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "9:50 am - 10:10 am",
+    "title": "The AI-First PMC: A 2030 Preview",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Henson Orser",
+        "title": "Founder & CEO",
+        "organization": "Two Dots"
+      },
+      {
+        "name": "Mariana Estrada",
+        "title": "Chief Strategy Officer",
+        "organization": "RPM Living"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4346",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:10 am - 10:30 am",
+    "title": "Martha Stewart’s Blueprint for the Next Era of Home",
+    "description": "Martha Stewart built a career helping people live better lives in better homes. As co-founder of Hint, she’s now bringing that thinking into the AI era. In this conversation with Brian Kelly, Martha will explore how AI is transforming the way we manage our homes, and what that shift means for the future of home ownership and the companies shaping it.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Yih-Han Ma",
+        "title": "CEO",
+        "organization": "Hint"
+      },
+      {
+        "name": "Martha Stewart",
+        "title": "Hint",
+        "organization": "Founder"
+      },
+      {
+        "name": "Brian Kelly",
+        "title": "Founder",
+        "organization": "The Points Guy (TPG)"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4582",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:30 am - 5:00 pm",
+    "title": "Blueprint Connect Lounge Powered by Inman",
+    "room": "Expo Hall",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4579",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:30 am - 5:00 pm",
+    "title": "Women’s Lounge",
+    "room": "Lando 4202",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4126",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:30 am - 5:00 pm",
+    "title": "Expo Hall Opens",
+    "room": "Expo Hall",
+    "track": "Venetian 5th Floor",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4364",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:45 am - 11:30 am",
+    "title": "FIRE Block",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4512",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:45 am - 10:55 am",
+    "title": "Introduction to FIRE",
+    "description": "FIRE, the Foundation for Innovation in Real Estate, is a nonprofit built to move the industry forward by connecting the people, ideas, and opportunities shaping what comes next. Join Executive Director Matt Knight for a look at why the Foundation exists, what they're building across the real estate ecosystem, and how you can be part of it.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Matt Knight",
+        "title": "Executive Director",
+        "organization": "FIRE"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4524",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:45 am - 10:50 am",
+    "title": "Welcome to the NOI Stage",
+    "room": "Palazzo A",
+    "track": "Track 1",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4104",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:45 am - 11:20 am",
+    "title": "Smart or Just Expensive? The Real NOI of Smart Home Tech",
+    "description": "The industry has spent years adding “smart” features, but not all of them improve resident experience, operational efficiency, or NOI. This session explores where smart technology truly creates value versus where it becomes expensive theater.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Danielle Brockman",
+        "title": "Head of IT",
+        "organization": "Shelter Asset Management"
+      },
+      {
+        "name": "Andre Sanchez",
+        "title": "Chief Operating Officer",
+        "organization": "Rently"
+      },
+      {
+        "name": "Jay Rawls",
+        "title": "Residential Business Lead, North America",
+        "organization": "Salto"
+      },
+      {
+        "name": "Jessica Tierney",
+        "title": "CEO & Founder",
+        "organization": "INKED"
+      },
+      {
+        "name": "Nikki Ganier",
+        "title": "Senior Regional Manager",
+        "organization": "Asset Living"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4107",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:45 am - 11:20 am",
+    "title": "Modernizing Land Acquisition with AI",
+    "description": "Finding and evaluating the right land is critical for development, yet most decisions are made the same way they were decades ago; AI and new data sources are rewriting the playbook. This panel will discuss how operators are leveraging advanced data and AI agents to compress evaluation timelines, uncover off-market opportunities, and transform land acquisition from a legacy bottleneck into a high-velocity competitive advantage.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Carter Malloy",
+        "title": "Founder & CEO",
+        "organization": "Acres"
+      },
+      {
+        "name": "Andrew Gunson",
+        "title": "Vice President of Land Acquisition",
+        "organization": "Toll Brothers"
+      },
+      {
+        "name": "Kyle Carnes",
+        "title": "Vice President of Digital Transformation & Customer Experience",
+        "organization": "K. Hovnanian Homes"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4347",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:45 am - 11:20 am",
+    "title": "AI’s Double-Edged Sword: Navigating New Risks in the Age of Intelligent Fraud",
+    "description": "Artificial intelligence is transforming real estate operations while creating new opportunities for fraud. During this panel discussion, hear how AI is reshaping risk, from payment fraud to emerging scams, and learn how leaders are protecting their organizations while embracing innovation. You'll walk away with actionable tips you can implement quickly to reduce your fraud risk.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Stephanie Gubiotti",
+        "title": "Director",
+        "organization": "FIRE"
+      },
+      {
+        "name": "Katie Elliott",
+        "title": "Senior Risk and Fraud Officer",
+        "organization": "Bottomline"
+      },
+      {
+        "name": "Jay Pedde",
+        "title": "Head of Operations",
+        "organization": "Veritas Investments"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4098",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:50 am - 11:00 am",
+    "title": "What if NOI Starts with Hello? How Human Connection, Hospitality and Technology Create Sustainable NOI",
+    "description": "In the multifamily industry, NOI is often discussed as a figure on a financial statement. But savvy operators know that sustainable NOI is built on something far more powerful: a sense of belonging. From meaningful resident experiences to authentic relationships with neighbors and onsite teams, the way people feel about where they live directly impacts retention, reputation and long-term financial performance. Join Kairoi Residential COO Kari Warren as she shares how her company combines innovative technology with hospitality-inspired service to create thriving communities that residents are proud to call home. Discover how a people-first approach can strengthen resident loyalty, elevate the living experience and drive sustainable NOI.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Kari Warren",
+        "title": "Chief Operating Officer of Property Management",
+        "organization": "Kairoi"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4511",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "10:55 am - 11:30 am",
+    "title": "What EMs Are Building And How",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Matt Knight",
+        "title": "Executive Director",
+        "organization": "FIRE"
+      },
+      {
+        "name": "Carol Enoch",
+        "title": "Asset Manager",
+        "organization": "Bridge Partners"
+      },
+      {
+        "name": "Mike Bergelson",
+        "title": "Managing Partner & Co-Founder",
+        "organization": "Glencrest Group"
+      },
+      {
+        "name": "Blake Persky",
+        "title": "CFO",
+        "organization": "Lightbulb Group"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4342",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "11:00 am - 11:20 am",
+    "title": "Playbook to Unlock NOI: Treat Leasing Like Sales, not Customer Service",
+    "description": "In an industry where leasing agents turn over annually and new hires underperform for months, Hillpointe and Grotto show how AI sales coaching cut new-hire ramp time from 90 days to 9 across the portfolio of one of the nation's largest multifamily developers.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Nick Deveau",
+        "title": "CEO and Co-founder",
+        "organization": "Grotto AI"
+      },
+      {
+        "name": "Josh Draughn",
+        "title": "Senior Vice President Marketing, Customer Experience & Centralized Operations",
+        "organization": "Hillpointe"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4099",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "11:20 am - 11:55 am",
+    "title": "From Compliance to Competitive Advantage: How to Turn Resident Programs into Real NOI",
+    "description": "Most multifamily operators have resident service programs in place. Fewer have built them in a way that unlocks new revenue and meaningfully reduces portfolio risk. In this session, Foxen CEO Kevin Jacobson moderates a candid conversation with owners and operators who have made that transition — moving insurance, pet management, and rent reporting from compliance functions to active NOI contributors. Panelists will share what that shift required, and what a well-structured resident program can deliver at scale.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Kevin Jacobson",
+        "title": "CEO",
+        "organization": "Foxen"
+      },
+      {
+        "name": "Erica McLaughlin",
+        "title": "Managing Director, Property Management – Southwest",
+        "organization": "RangeWater Residential"
+      },
+      {
+        "name": "Matt Page",
+        "title": "Vice President",
+        "organization": "Harrison Street Asset Management"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4129",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "11:25 am - 12:00 pm",
+    "title": "What Actually Drives a Lease? Solving the $1 Million Conversion Problem",
+    "description": "Every decision, from marketing investments and leasing technology to resident policies and operations, can impact lease conversion, but which ones truly move the needle? Industry leaders will explore how data and measurement across the leasing journey can separate assumptions from reality, uncover what drives conversions, and improve occupancy and long-term performance.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Jamie Gorski",
+        "title": "Founder",
+        "organization": "Catchpoint Collective"
+      },
+      {
+        "name": "John R. Bradford, III",
+        "title": "CEO & Founder",
+        "organization": "PetScreening"
+      },
+      {
+        "name": "Michael Sherman",
+        "title": "Senior Vice President",
+        "organization": "Zillow Rentals"
+      },
+      {
+        "name": "Melissa McClure",
+        "title": "Senior Vice President of Property Management",
+        "organization": "Buckingham Companies"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4130",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "11:25 am - 12:00 pm",
+    "title": "Follow the Money: Where Capital Is Flowing in Real Estate’s AI Era",
+    "description": "The real estate industry is entering a new investment cycle where AI, technology, and capital strategy are becoming increasingly interconnected. As capital markets evolve and innovation accelerates, investors, lenders, corporate development teams, operators, and technology leaders are rethinking how they create value, allocate capital, and build enduring competitive advantages. This session brings together leaders from investment management, investment banking, corporate development, and venture capital to discuss how technology and AI is reshaping investment decisions, operational performance, M&A activity, and long-term growth across the real estate ecosystem. Attendees Will Learn: - Where capital is flowing and the technologies investors are betting on. - How AI is changing company valuations, operating models, and competitive advantage. - What strategic investors, acquirers, and lenders look for when evaluating innovation. - How technology is influencing capital allocation, partnerships, and M&A. - The trends that will shape the next generation of real estate companies.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Carolyn Kwon",
+        "title": "Managing Director",
+        "organization": "Moderne Ventures"
+      },
+      {
+        "name": "Tom Briney",
+        "title": "President and Chief Investment Officer",
+        "organization": "Origin Credit Advisers"
+      },
+      {
+        "name": "David Luk",
+        "title": "Executive Vice President, Strategic Finance",
+        "organization": "Freedom Mortgage"
+      },
+      {
+        "name": "Brandon Dobell",
+        "title": "Managing Director",
+        "organization": "Brown Gibbons Lang & Company (BGL)"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4135",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "11:25 am - 12:00 pm",
+    "title": "Putting Your Money Where Your Mouth Is",
+    "description": "A new breed of tech founder isn't just selling innovation; they're buying it. This session explores founders building and acquiring the very portfolios that put their own technology to work, turning customers into an in-house proving ground.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      },
+      {
+        "name": "Jessica Beck",
+        "title": "CEO & Co-Founder",
+        "organization": "Alfred | Arqline"
+      },
+      {
+        "name": "KP Reddy",
+        "title": "Founder",
+        "organization": "Zero RFI"
+      },
+      {
+        "name": "Alex Samoylovich",
+        "title": "Executive Chairman & Founder",
+        "organization": "Collective Residential"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4403",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "11:30 am - 12:05 pm",
+    "title": "New Stone Age – From Chisel to Robot",
+    "description": "Robotic fabrication has made structural stone buildable at market economics for the first time in a century. The result is a beauty and permanence no glass tower can match, and an entirely new artistic language for architecture. The developer, architect, and fabricator behind a new stone building in Manhattan share why they chose it, what it costs, and how it comes together on site.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Micah Springut",
+        "title": "Founder & CEO",
+        "organization": "Monumental Labs"
+      },
+      {
+        "name": "Amin Taha",
+        "title": "Founding Partner",
+        "organization": "GROUPWORK"
+      },
+      {
+        "name": "Eli Lever",
+        "title": "Real Estate Developer",
+        "organization": "TBAC"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4608",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "12:00 pm - 2:00 pm",
+    "title": "Lunch",
+    "room": "Expo Hall",
+    "track": "Venetian 5th Floor",
+    "themes": [
+      "Networking"
+    ],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4404",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "12:05 pm - 12:40 pm",
+    "title": "The New World of Brand Building and Marketing in the Built World",
+    "description": "Blurring lines of B2B and B2C individual brands within companies are quickly becoming the norm of how potential partners and clients work with brands across the world. What does this trend mean for the modern concept of engagement with brand on both the personal and company level? What are the platforms and ideas that spark engagement from a community, and how do you stand out in a sea of noise in 2026 and beyond?",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Martin Kelly",
+        "title": "President",
+        "organization": "Blueprint"
+      },
+      {
+        "name": "Heather Elias",
+        "title": "Chief Growth Officer",
+        "organization": "Elm Street"
+      },
+      {
+        "name": "Ryan Elazari",
+        "title": "Founder & Host",
+        "organization": "CRE Unplugged"
+      },
+      {
+        "name": "Lilian Chen",
+        "title": "Founder & CEO",
+        "organization": "Proptimal"
+      },
+      {
+        "name": "Lauren Stinson",
+        "title": "Founder",
+        "organization": "LL Creative Solutions"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4588",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "12:15 pm - 1:30 pm",
+    "title": "Roundtables",
+    "description": "You are invited to join exclusive roundtable discussions with top industry leaders.",
+    "room": "Track 2",
+    "track": "Roundtables",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Carter Malloy",
+        "title": "Founder & CEO",
+        "organization": "Acres"
+      },
+      {
+        "name": "Arlene Mayfield",
+        "title": "EVP Sales & Marketing",
+        "organization": "PetScreening"
+      },
+      {
+        "name": "Cris Kimbrough",
+        "title": "Industry Principal, Smart Building",
+        "organization": "Realpage"
+      },
+      {
+        "name": "Ryan Clayton",
+        "title": "Senior Director, Bottomline Real Estate Solutions",
+        "organization": "Bottomline"
+      },
+      {
+        "name": "Dom Beveridge",
+        "title": "Principal",
+        "organization": "20for20"
+      },
+      {
+        "name": "Ted Ritter",
+        "title": "Principal",
+        "organization": "LMI360"
+      },
+      {
+        "name": "Zander Geronimos",
+        "title": "Global Head of Business Development",
+        "organization": "PRODA"
+      },
+      {
+        "name": "Jennifer Stoops",
+        "title": "Vice President of Corporate Development",
+        "organization": "PURE HomeRiver Property Management"
+      },
+      {
+        "name": "Cheryl King",
+        "title": "VP Business Development & Operations",
+        "organization": "Fidelity"
+      },
+      {
+        "name": "Reshma Block",
+        "title": "Principal & Founder",
+        "organization": "Compass Consulting"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4508",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "12:15 pm - 1:30 pm",
+    "title": "Roundtables",
+    "description": "Please RSVP for the roundtable that would you like to join. You may pick one for 9/23 and one for 9/24",
+    "room": "Track 2",
+    "track": "Roundtables",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Carter Malloy",
+        "title": "Founder & CEO",
+        "organization": "Acres"
+      },
+      {
+        "name": "Arlene Mayfield",
+        "title": "EVP Sales & Marketing",
+        "organization": "PetScreening"
+      },
+      {
+        "name": "Cris Kimbrough",
+        "title": "Industry Principal, Smart Building",
+        "organization": "Realpage"
+      },
+      {
+        "name": "Ryan Clayton",
+        "title": "Senior Director, Bottomline Real Estate Solutions",
+        "organization": "Bottomline"
+      },
+      {
+        "name": "Dom Beveridge",
+        "title": "Principal",
+        "organization": "20for20"
+      },
+      {
+        "name": "Ted Ritter",
+        "title": "Principal",
+        "organization": "LMI360"
+      },
+      {
+        "name": "Zander Geronimos",
+        "title": "Global Head of Business Development",
+        "organization": "PRODA"
+      },
+      {
+        "name": "Rob Samuels",
+        "title": "Founder & CEO",
+        "organization": "Clarity Revenue Group"
+      },
+      {
+        "name": "Justin Dilley",
+        "title": "Co-Host & Founder",
+        "organization": "Multifamily Weekend Update"
+      },
+      {
+        "name": "Eric Sharpe",
+        "title": "Co-Host & Executive Producer",
+        "organization": "Multifamily Weekend Update"
+      },
+      {
+        "name": "Ashley James",
+        "title": "Host",
+        "organization": "Gadgets, Grit & Growth"
+      },
+      {
+        "name": "Sarah Yaussi",
+        "title": "Head of Strategic Partnerships and Member Engagement",
+        "organization": "Real Estate Technology & Transformation Center (RETTC)"
+      },
+      {
+        "name": "Julianne Goodfellow",
+        "title": "Head of Community and Policy",
+        "organization": "Real Estate Technology & Transformation Center (RETTC)"
+      },
+      {
+        "name": "Jennifer Stoops",
+        "title": "Vice President of Corporate Development",
+        "organization": "PURE HomeRiver Property Management"
+      },
+      {
+        "name": "Cheryl King",
+        "title": "VP Business Development & Operations",
+        "organization": "Fidelity"
+      },
+      {
+        "name": "Reshma Block",
+        "title": "Principal & Founder",
+        "organization": "Compass Consulting"
+      },
+      {
+        "name": "Wan Li Zhu",
+        "title": "Co-Founder and Managing Director",
+        "organization": "Suffolk Technologies"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4356",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "12:40 pm - 1:15 pm",
+    "title": "The Industrialized Construction Scale Gap",
+    "description": "Industrialized construction is a hardware-plus-real-estate business being funded like software. Traditional VC return profiles, time horizons, and risk tolerance don’t match how IC companies actually scale: factories take years to ramp, projects need project finance, off-take demand is regional, and unit economics improve with volume, not quarters. We’ve seen this story before. Climate tech mapped its “scale gap” — the chasm between early VC and infrastructure capital that strands deep-tech companies precisely when they need patient capital most. IC is in the same place, and the next wave of failures (and breakthroughs) will be decided by who shows up with capital that fits. What does the right capital stack look like for companies in the industrialized construction space?",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Ruby Bolaria Shifrin",
+        "title": "Chief Investment and Partnership Officer and Managing Director of the Joist Innovation Fund",
+        "organization": "Terner Labs"
+      },
+      {
+        "name": "Julie Mahowald",
+        "title": "CFO and Head of Partnerships & Strategy of Housing Trust Silicon Valley",
+        "organization": "Housing Trust"
+      },
+      {
+        "name": "Rebecca Foster",
+        "title": "Founding CEO",
+        "organization": "San Francisco Housing Accelerator Fund"
+      },
+      {
+        "name": "Apoorva Pasricha",
+        "title": "Chief Operating Officer",
+        "organization": "Cloud Apartments"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4573",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "1:00 pm - 2:00 pm",
+    "title": "Workshop: Gateway to the Middle East: Scaling Global Real Estate Tech in Saudi Arabia’s Transformative Real Estate Market",
+    "description": "Are you a business or founder in real estate trying to break into the Saudi market”? Get practical insights on entering the market, finding the right local partners, and adapting your business for growth in Saudi Arabia’s fast-changing real estate landscape. To RSVP please copy the link in your browser: https://forms.gle/npHzBrT7D52GNdrQ7.",
+    "room": "Zeno 4610",
+    "track": "Middle East",
+    "themes": [
+      "Middle East"
+    ],
+    "speakers": [
+      {
+        "name": "Aya Zaghnin",
+        "title": "CEO and Managing Director",
+        "organization": "NeoCity"
+      },
+      {
+        "name": "Ibrahim AshShohail",
+        "title": "CEO",
+        "organization": "Aqar"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4474",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:00 pm - 2:25 pm",
+    "title": "Built for National, Broken for Local: Commercial Real Estate’s Infrastructure Gap for Independent Tenants",
+    "description": "Commercial real estate's operating infrastructure - leasing terms, underwriting standards, and even payment systems is traditionally built around the national, investment-grade credit tenant. But that tenant is no longer the singular growth engine for retail. Independent and regional operators are a core part of what makes retail centers thrive, bringing the fresh, novel concepts that drive placemaking and keep customers coming back. Yet lease terms are usually non-flexible and long-term. This session brings together Shortlyst and RentFlow, two companies solving opposite ends of the same problem. Shortlyst removes the friction of finding the right space through flexible, short-term matching between emerging brands and property owners. RentFlow removes the friction of paying for it, splitting rent into installments that match a growing business's actual cash flow.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Commercial"
+    ],
+    "speakers": [
+      {
+        "name": "Laura Millichap",
+        "title": "Entrepreneur In Residence",
+        "organization": "REACH Commercial"
+      },
+      {
+        "name": "Alyssa Govindan",
+        "title": "Co-Founder",
+        "organization": "Shortlyst"
+      },
+      {
+        "name": "Joseph Thalinjan",
+        "title": "Co-Founder & CEO",
+        "organization": "RentFlow"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4105",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:00 pm - 2:35 pm",
+    "title": "What Does “AI-First” Have to Do With Multifamily NOI?",
+    "description": "The AI hype cycle shows no sign of slowing. But if we look more closely at AI adoption in multifamily, we can see big changes emerging in the technology landscape. Every app includes AI, but some applications of AI are vastly more effective than others, redefining entire categories of technology and enabling change at previously unattainable levels. This session cuts through the noise to focus on real examples of companies achieving radical transformation through AI adoption, and how it affects NOI. We’ll examine how the combination of chat and agentic AI is changing what operators can know about residents, how that changes decisions and removes friction in ways legacy software cannot. This shift has profound implications, not just for operators, but for tech investments, as AI-first design collapses traditional software categories, reshaping competitive moats, and changing how value is created and captured.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Dom Beveridge",
+        "title": "Principal",
+        "organization": "20for20"
+      },
+      {
+        "name": "Douglas Pearce",
+        "title": "EVP, IT",
+        "organization": "Waterton"
+      },
+      {
+        "name": "Aaron Ross",
+        "title": "President",
+        "organization": "Birge & Held"
+      },
+      {
+        "name": "Jeremy Voigtmann",
+        "title": "Managing Director",
+        "organization": "Harbor Group"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4108",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:00 pm - 2:35 pm",
+    "title": "The New World of Capital and Adoption in PropTech",
+    "description": "The PropTech playbook is being rewritten. Alternative categories of capital and building are opening up alongside the traditional VC pathway, and operators are growing more selective about what they actually deploy, focusing on proven product-market fit and real demonstrable ROI. These shifts, alongside the major advancements in AI, are creating a fundamentally different landscape. This panel will explore how founders, investors and operators are navigating this new reality.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Jeremy Kaner",
+        "title": "Founder and Managing Partner",
+        "organization": "Rebuild Capital"
+      },
+      {
+        "name": "Keats Ali",
+        "title": "CTO",
+        "organization": "Dalfen Industrial"
+      },
+      {
+        "name": "Jeff Dvorett",
+        "title": "President",
+        "organization": "Midwood Investment & Development"
+      },
+      {
+        "name": "Alex Fiance",
+        "title": "Co-Founder & Managing Partner",
+        "organization": "Kairos"
+      },
+      {
+        "name": "Nick Durst",
+        "title": "Associate",
+        "organization": "The Durst Organization & Durst Ventures"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4345",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:00 pm - 2:35 pm",
+    "title": "Irreplaceable: The AI Pressure Test for PropTech",
+    "description": "Every institution is asking the same question: Has AI made proptech vendors optional? Two institutional investors share an unfiltered perspective on what’s truly defensible in today’s technology stack. Then founders take the stage to make their case and explain why their solutions are built to last.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Mollie Eisler",
+        "title": "Vice President",
+        "organization": "Neuberger Berman"
+      },
+      {
+        "name": "Jeanne Casey",
+        "title": "Head of Real Asset Ventures",
+        "organization": "Nuveen"
+      },
+      {
+        "name": "Mike Miele",
+        "title": "Co-Founder and CEO",
+        "organization": "Vend Park"
+      },
+      {
+        "name": "Hemant Shah",
+        "title": "Founder and CEO",
+        "organization": "Archipelago"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4148",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:10 pm - 2:30 pm",
+    "title": "The Hidden NOI in Your Roster: How AI Turns Agent Relationships into Brokerage Profit",
+    "description": "Every brokerage has an NOI problem hiding in plain sight: 88% of past clients say they'd use their agent again, only 13% actually do. That gap isn't lost goodwill, it's lost revenue sitting on the books. In this session, MoxiWorks SVP Shaun Harkley will break down how brokerages can apply true NOI thinking — maximizing yield from existing assets — to their most underleveraged asset: their contact database. Using RISE, MoxiWorks' native-AI platform, he'll show how surfacing high-intent opportunities automatically, without adding headcount, turns dormant relationships into repeat and referral transactions, driving real, measurable NOI gains brokerage-wide.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "AI & Robotics",
+      "Brokerage"
+    ],
+    "speakers": [
+      {
+        "name": "Shaun Harkley",
+        "title": "Senior Vice President, Sales",
+        "organization": "MoxiWorks"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4475",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:25 pm - 2:50 pm",
+    "title": "The AI Tipping Point: Why You’ll See a Wave of Multi-Product Brokerages Next",
+    "description": "Brokerages have wanted the mortgage, title, and insurance business sitting inside every transaction for years - but the plumbing wasn't there. Different systems, different compliance regimes per state and product line, and manual handoffs meant customers often walked before the brokerage could even make the offer. This session makes the case for why that's about to change: AI-driven orchestration, a shared data layer, and automated compliance checks are removing the technical and regulatory friction that's kept multi-product a nice idea rather than a real business line - and the smart money and consolidators are already positioning for it. From there, we go tactical - a forensic look at exactly where in the transaction brokerages still lose that ancillary business today: the specific handoff points where timing, trust, or friction send the customer elsewhere. Attendees leave with a read on where this is headed and a practical map of where to fix their own attach funnel before the wave hits.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Brokerage",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Jeff Kennedy",
+        "title": "Strategic Advisor",
+        "organization": "REACH"
+      },
+      {
+        "name": "Jerimiah Taylor",
+        "title": "CEO & Co-Founder",
+        "organization": "BrokerBot"
+      },
+      {
+        "name": "Divya Aathresh",
+        "title": "Founder & CEO",
+        "organization": "MaxHome.Ai"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4101",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:30 pm - 2:40 pm",
+    "title": "The Leasing Engine That Moves NOI",
+    "description": "HH Red Stone used LeaseMagnets to build a faster and more personalized digital leasing experience that reduced friction before the first site visit and turned prospect engagement into measurable occupancy gains.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Tadros ‘Teddy’ Abdelmalek",
+        "title": "Senior Vice President of Business Development",
+        "organization": "HH Red Stone"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4499",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:35 pm - 2:50 pm",
+    "title": "How Do You Get the Flywheel Spinning for a Real Estate Company Using Technology?",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Dave Gise",
+        "title": "Senior Vice President and Head of Hospitality, Amenities, and AI",
+        "organization": "RXR"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4149",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:40 pm - 3:00 pm",
+    "title": "The Prospect Tour: Multifamily’s Untapped Potential",
+    "description": "The prospect tour is where leases are won or lost — yet it's the most under-analyzed moment in the multifamily customer journey. This session explores how AI-powered conversation intelligence reveals what's actually happening on tours, uncovering the coaching opportunities that boost tour-to-lease conversion and the untapped insights operators have been missing.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Lucia Qian",
+        "title": "GM, Real Estate",
+        "organization": "Siro"
+      },
+      {
+        "name": "Mike Brewer",
+        "title": "Co-Founder",
+        "organization": "Multifamily Media Network"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4106",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:40 pm - 3:15 pm",
+    "title": "NOI Leadership Forum: The Decisions Defining the Next Generation of Multifamily",
+    "description": "Forget the five-minute panel answers. The Multifamily Leadership Forum is a session built for real debate. Mike Brewer moderates a peer-to-peer conversation through eight to ten of the hardest questions facing multifamily leadership and presses wherever the perspectives split. The next generation of multifamily belongs to the operators and leaders who exercise sound judgment and deliver remarkable results. Come find out where you stand.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Ian Bingham",
+        "title": "SVP of Business Development",
+        "organization": "DMG"
+      },
+      {
+        "name": "Kimberly Ramsey",
+        "title": "Executive Vice President of Property Management Operations",
+        "organization": "KETTLER"
+      },
+      {
+        "name": "Joe Porritt",
+        "title": "Director of Leasing & Marketing",
+        "organization": "The Brodsky Organization"
+      },
+      {
+        "name": "Wendy Wilson",
+        "title": "Managing Director, Property Management",
+        "organization": "RangeWater Residential"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4109",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:40 pm - 3:15 pm",
+    "title": "AI and the Real Estate Workforce: Bigger, Smaller, or Both?",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Commercial",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Steve Weikal",
+        "title": "Industry Chair of the Real Estate Transformation Lab",
+        "organization": "MIT Center for Real Estate"
+      },
+      {
+        "name": "Deborah Smith",
+        "title": "Co-Founder and CEO",
+        "organization": "The CenterCap Group"
+      },
+      {
+        "name": "James Harris",
+        "title": "Founder",
+        "organization": "Breezy"
+      },
+      {
+        "name": "Gabriela Stephenson",
+        "title": "Global Head of WPM Transformation",
+        "organization": "JLL"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4476",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:50 pm - 3:00 pm",
+    "title": "Thinking Outside the Box: How Next-Gen Manufactured Housing is Building the Future of Affordable Living",
+    "description": "Forget everything you think you know about factory-built homes. This session explores how next-gen innovation is transforming manufactured housing into a sleek, scalable solution for modern living. We will examine the entire transaction ecosystem—from AI-driven inventory search and automated valuations to tailored digital financing and streamlined titles. Discover how pioneers are leveraging modern tech, precision off-site engineering, and frictionless buying pathways to shatter old stigmas and unlock affordable homeownership at scale.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Homebuilding"
+    ],
+    "speakers": [
+      {
+        "name": "Ashley Stinton",
+        "title": "Managing Partner, NAR REACH",
+        "organization": "Second Century Ventures & REACH"
+      },
+      {
+        "name": "Grayson Gibson",
+        "title": "CEO",
+        "organization": "LotRoll"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4111",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "2:50 pm - 3:25 pm",
+    "title": "The New Shape of the Company",
+    "description": "AI is not just changing the tools real estate companies use, it is changing how they are built, who they hire, and which skills now move the business. This panel goes inside how leaders are redrawing the org chart, rethinking talent, and turning AI fluency into a structural advantage across operations, hospitality, and the resident and tenant experience.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Sina Khanifar",
+        "title": "CEO",
+        "organization": "RSRF"
+      },
+      {
+        "name": "Dave Gise",
+        "title": "Senior Vice President and Head of Hospitality, Amenities, and AI",
+        "organization": "RXR"
+      },
+      {
+        "name": "Khushbu Sikaria",
+        "title": "Chief Operating Officer",
+        "organization": "Collective Residential"
+      },
+      {
+        "name": "Kazim Somji",
+        "title": "SVP, Information Technology",
+        "organization": "Fengate Asset Management"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4363",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:00 pm - 3:05 pm",
+    "title": "AI Showcase",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4102",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:00 pm - 3:10 pm",
+    "title": "The Distressed Asset Playbook",
+    "description": "When a property is bleeding, recovery isn't built on concessions or new technology. It's built on sharper KPIs, faster decisions and leadership that holds the line on economic occupancy and cash discipline.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Amanda Cox",
+        "title": "President & COO",
+        "organization": "Bellaire Partners"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4513",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:05 pm - 3:15 pm",
+    "title": "Underwriting Is a Luxury Good — and $15 Trillion of CRE Goes Without",
+    "description": "Only $12 trillion of the $27 trillion US commercial real estate universe qualifies as institutional-quality — and underwriting infrastructure, from data to software to analyst benches, was built and priced for that slice. The other $15 trillion trades on a spreadsheet and conviction. Steven Song, founder and CEO of Diald AI, on how underwriting became a luxury good, what happens when it stops being one, and why the only AI worth using on a deal is one that can show where every number came from. Includes a brief live demo.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Steven Song",
+        "title": "Founder & CEO",
+        "organization": "Diald AI"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4150",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:10 pm - 3:30 pm",
+    "title": "The NOI Hiding in Your Network",
+    "description": "Your network may be one of the most underutilized assets at your community. Beyond delivering Wi-Fi, today's connectivity infrastructure can reveal real-time insights into how a community is performing and how residents are actually using it. Jared Sanders, President of CBX Connect, will explore how owners and operators can begin turning network data into actionable intelligence — identifying opportunities to improve operations, enhance the resident experience, make smarter capital decisions and ultimately impact NOI. The question is no longer simply, “Is the Wi-Fi working?” It’s “What else can the network tell us?\"",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Jared Sanders",
+        "title": "President",
+        "organization": "CBX Connect"
+      },
+      {
+        "name": "Danielle Brockman",
+        "title": "Head of IT",
+        "organization": "Shelter Asset Management"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4553",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:15 pm - 3:25 pm",
+    "title": "Make Tours Your Competitive Advantage with Grotto AI",
+    "description": "Every tour and call your team runs is a data source. Today, most of that data disappears the moment the prospect walks out. In this showcase, Nick Deveau, CEO of Grotto AI, will show how Grotto's AI coaching and intelligence platform turns tours and calls into your competitive advantage. Grotto records every call and tour, and gives agents feedback on the spot. Then it puts the transcripts to work: clearing busywork off agents' plates and drafting personalized follow-ups. Across the portfolio, Grotto aggregates every prospect interaction to show managers what renters are actually asking for and what drives a signed lease. Come see how Weidner and Hillpointe use Grotto to convert more prospects and increase NOI.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Nick Deveau",
+        "title": "CEO and Co-founder",
+        "organization": "Grotto AI"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4338",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:20 pm - 3:55 pm",
+    "title": "Rebuilding the Operating Model: How Leading Owner/Operators Are Redesigning Multifamily from the Inside Out",
+    "description": "The operating model you inherited was built for a different decade, and the operators in this room are tearing it down. This is not the technology session. It's the org chart, the roles, the span of control, and the payroll-per-unit math that decides whether the redesign works. Mike Brewer moderates a peer-to-peer forum with owner/operators rebuilding multifamily from the inside out, skipping the highlight reel and going straight to the failure points. Come see whose blueprint holds.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Mike Brewer",
+        "title": "Co-Founder",
+        "organization": "Multifamily Media Network"
+      },
+      {
+        "name": "Justin Choi",
+        "title": "Sr. Director of Marketing & Technology",
+        "organization": "Sequoia"
+      },
+      {
+        "name": "Maxwell Stiss",
+        "title": "Vice President of Business Technology",
+        "organization": "GID and Windsor Communities"
+      },
+      {
+        "name": "Kelley Brine",
+        "title": "President",
+        "organization": "Rose Valley Capital"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4110",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:20 pm - 3:55 pm",
+    "title": "Unlocking the Retail Investor: How Real Estate’s Next Growth Wave Isn’t Institutional",
+    "description": "Institutional capital has dominated SFR and multifamily for the last decade — but the next wave of growth in residential real estate may come from a different place entirely: the retail investor. From self-directed IRA buyers to DSCR-lending-fueled landlords acquiring their third rental, retail investors are quietly reshaping deal flow, asset pricing, and how operators think about acquisition pipelines. They are the fastest-growing segment in the asset class, and the platforms built to serve them are scaling faster than almost anything else in proptech. The momentum is not only market-driven. A shifting political and administrative environment — focused on expanding access to wealth-building through real estate, reducing institutional concentration in single-family markets, and creating policy pathways for individual ownership — is adding new tailwinds to this cohort. Retail investors are increasingly positioned not as a problem to solve but as a policy solution: the distributed individual owner as a counterweight to institutional dominance in housing. This panel brings together the platforms, lenders, Insurtech, and software companies actively building the retail investor stack — and asks what it means for the built world ecosystem when millions of retail investors gain access to tools previously reserved for the top of the market. What underwriting, insurance, and operational models hold up when the customer has 8 properties instead of 8,000? And what does it mean when the platform that serves the retail investor is also the platform that created them?",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Kurt Ramirez",
+        "title": "Co-founder & General Partner",
+        "organization": "Nine Four Ventures"
+      },
+      {
+        "name": "Eric Augustyn",
+        "title": "CEO",
+        "organization": "BiggerPockets"
+      },
+      {
+        "name": "Rebecca Simanek",
+        "title": "VP, Head of Marketing",
+        "organization": "Kiavi"
+      },
+      {
+        "name": "Ross Diedrich",
+        "title": "CEO & Founder",
+        "organization": "Covered Insurance Solutions"
+      },
+      {
+        "name": "Josh Jensen",
+        "title": "CEO and Co-founder",
+        "organization": "Inspectify"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4112",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:25 pm - 4:00 pm",
+    "title": "What the World Knows About Real Estate",
+    "description": "What if the most interesting ideas in residential real estate are happening everywhere except the US? In Saudi Arabia, Brazil, and the world of cross-border investment, a handful of founders are building platforms that make the American model look slow. This is a look at how they did it, and what we should be paying attention to.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Dave Garland",
+        "title": "Managing Director",
+        "organization": "Second Century Ventures"
+      },
+      {
+        "name": "Ibrahim AshShohail",
+        "title": "CEO",
+        "organization": "Aqar"
+      },
+      {
+        "name": "Yuval Golan",
+        "title": "CEO & Co-Founder",
+        "organization": "Waltz"
+      },
+      {
+        "name": "Mate Pencz",
+        "title": "Founder and CEO",
+        "organization": "Loft"
+      },
+      {
+        "name": "Aya Zaghnin",
+        "title": "CEO and Managing Director",
+        "organization": "NeoCity"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4607",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:30 pm - 3:40 pm",
+    "title": "Hyperlocal Intelligence at National Scale: A Real Estate Operator’s Perspective",
+    "description": "Local government decisions can reshape real estate opportunities long before they appear in traditional market data. Join for a practical conversation on turning municipal data into useful intelligence, helping teams identify emerging risks, investigate opportunities, and make better-informed decisions.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Tianyou Xu",
+        "title": "CEO",
+        "organization": "GatherGov"
+      },
+      {
+        "name": "Joshua Pak",
+        "title": "VP Advanced Analytics and Data Science",
+        "organization": "Prologis"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4103",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:30 pm - 3:40 pm",
+    "title": "AI Asset Management Built From Scratch",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Mike Taravella",
+        "title": "Founder & Principal",
+        "organization": "Niche Holdings"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4151",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:40 pm - 4:00 pm",
+    "title": "Collections AI Is Solving the Wrong Half of Delinquency",
+    "description": "Every AI product aimed at bad debt works downstream, score the risk, automate the demand letter, route the payment plan. All of it optimizes recovery of money the resident didn't have on the day you asked for it. The contrarian take: delinquency is often merely a calendar problem, not a credit problem. Rent is not the only major bill on a monthly cadence while a large share of residents are paid biweekly or irregularly. AI's higher-value job is predicting who will be short before the 1st and re-timing the payment, not chasing after the miss.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Nils Decker",
+        "title": "Head of Business Development",
+        "organization": "Split Pay"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4522",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "3:45 pm - 4:00 pm",
+    "title": "What Happens in Vegas Happened on Purpose: How to Underwrite a City",
+    "description": "How much did you think about a city's systems and what it's “selling” before you underwrote your last deal? This talk introduces the Build Order framework for understanding what makes cities tick, then puts it to work on Las Vegas. Because Las Vegas is the quintessential example of a city built and rebuilt around a clear product proposition: entertainment and escape. What changes when the people building and investing in real estate underwrite the city before they underwrite the asset?",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Commercial"
+    ],
+    "speakers": [
+      {
+        "name": "Lauren Alpeyrie",
+        "title": "Co-Founder",
+        "organization": "Build Order"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4489",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "4:00 pm - 5:00 pm",
+    "title": "Official Expo Hall Reception & Networking",
+    "room": "Expo Hall",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4470",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "4:00 pm - 5:00 pm",
+    "title": "Office Hours",
+    "room": "Expo Hall",
+    "track": "Networking",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Chris Longman",
+        "title": "Principal",
+        "organization": "Navitas Capital"
+      },
+      {
+        "name": "German Aparicio",
+        "title": "Program Manager of Early Innovation and Partner Development",
+        "organization": "Trimble Ventures"
+      },
+      {
+        "name": "Howard Ko",
+        "title": "Partner",
+        "organization": "Morpheus Ventures"
+      },
+      {
+        "name": "Cem Mimaroglu",
+        "title": "Partner, Pre-Seed Allocation",
+        "organization": "Zacua Ventures"
+      },
+      {
+        "name": "Jeff Flynn",
+        "title": "Partner",
+        "organization": "Citi Ventures"
+      },
+      {
+        "name": "Chris Langford",
+        "title": "Managing Partner",
+        "organization": "Home Technology Ventures"
+      },
+      {
+        "name": "TX Zhuo",
+        "title": "General Partner",
+        "organization": "Fika Ventures"
+      },
+      {
+        "name": "Eric Lamb",
+        "title": "Board Member & Managing Director",
+        "organization": "DPR & WND Ventures"
+      },
+      {
+        "name": "Chris Stern",
+        "title": "Corporate Vice President | Managing Director",
+        "organization": "Trimble Inc. | Trimble Ventures"
+      },
+      {
+        "name": "Andreas Winter-Extra",
+        "title": "Operating Partner",
+        "organization": "KOMPAS VC"
+      },
+      {
+        "name": "Scott Kaplanis",
+        "title": "Managing Partner",
+        "organization": "GroundBreak Ventures"
+      },
+      {
+        "name": "Dave Garland",
+        "title": "Managing Director",
+        "organization": "Second Century Ventures"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4601",
+    "day": "Wednesday, September 23rd, 2026",
+    "time": "4:00 pm - 5:00 pm",
+    "title": "REACH Global Mixer",
+    "description": "Visit the REACH Booth, adjacent to the DJ and Innovation Stage and engage in the REACH Global Mixer: Where Global Tech Connects. Join the Global footprint of the tech community wither interactive networking.",
+    "room": "Expo Hall",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4458",
+    "day": "Thursday, September 24th, 2026",
+    "time": "7:00 am - 8:30 am",
+    "title": "Breakfast",
+    "room": "Marcello Ballroom",
+    "track": "All Tracks",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4539",
+    "day": "Thursday, September 24th, 2026",
+    "time": "7:00 am - 3:00 pm",
+    "title": "Registration Open",
+    "room": "Venetian 5th Floor",
+    "track": "Venetian 5th Floor",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4113",
+    "day": "Thursday, September 24th, 2026",
+    "time": "8:30 am - 8:35 am",
+    "title": "Welcome to the Vision Stage",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4406",
+    "day": "Thursday, September 24th, 2026",
+    "time": "8:35 am - 8:55 am",
+    "title": "The Power of Placemaking: Creating Destinations That Perform",
+    "description": "Intentional placemaking has the power to transform a property into a destination and strengthen the community it serves. Join ICSC’s Tom McGee and CBRE’s Laura Barr as they explore how thoughtful experiences and meaningful connections can drive engagement, support leasing demand, and enhance long-term asset value. Together, they will examine how creating vibrant places where people shop, dine, work, play, and gather can strengthen local economies and reinforce the vital role commercial real estate plays in communities.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Retail"
+    ],
+    "speakers": [
+      {
+        "name": "Tom McGee",
+        "title": "President & CEO",
+        "organization": "ICSC"
+      },
+      {
+        "name": "Laura Barr",
+        "title": "Americas Retail Leader",
+        "organization": "CBRE"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4559",
+    "day": "Thursday, September 24th, 2026",
+    "time": "8:55 am - 9:15 am",
+    "title": "Where Home Meets Hospitality",
+    "description": "Home sharing is moving from a consumer novelty to a category multifamily owners can offer as a differentiating amenity and a new revenue line. This conversation maps where innovation, the broader hospitality shift, and the evolving regulatory landscape are heading next.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Hospitality"
+    ],
+    "speakers": [
+      {
+        "name": "Clelia Peters",
+        "title": "Managing Partner",
+        "organization": "Era Ventures"
+      },
+      {
+        "name": "Justine Palefsky",
+        "title": "Co-Founder and CEO",
+        "organization": "Kindred"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4497",
+    "day": "Thursday, September 24th, 2026",
+    "time": "9:00 am - 10:00 am",
+    "title": "Family Office Allocation Strategies Towards Real Estate",
+    "description": "This panel will explore where family offices are finding compelling real estate opportunities today, weighing the trade-offs between direct deals and fund structures as families chart their investment approach. Panelists will share how they identify and vet sponsors, and how strong networks can surface off-market opportunities and sharpen due diligence. The conversation will close with a focus on where true value capture exists in today's market—and how family offices are positioning to seize it.",
+    "room": "Lando 4302",
+    "track": "Family Office",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Alicia Miller-Yoder",
+        "title": "Head of Capital Markets",
+        "organization": "Black Salmon Capital"
+      },
+      {
+        "name": "Chase Kolebuck",
+        "title": "Co-Founder and Partner",
+        "organization": "1930 Capital"
+      },
+      {
+        "name": "Todd Kuhl",
+        "title": "Director",
+        "organization": "Sherman Financial Group"
+      },
+      {
+        "name": "Tyler Niess",
+        "title": "Senior Advisor",
+        "organization": "Dart Interests"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4444",
+    "day": "Thursday, September 24th, 2026",
+    "time": "9:15 am - 9:35 am",
+    "title": "Building Belonging: Fabrik on the Business Case for Community-Led Space — A Case Study with Hines",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Commercial"
+    ],
+    "speakers": [
+      {
+        "name": "Jaclyn Pascocello",
+        "title": "Co-Founder & CEO",
+        "organization": "Fabrik"
+      },
+      {
+        "name": "Keith Montgomery",
+        "title": "Chief Financial Officer",
+        "organization": "Hines"
+      },
+      {
+        "name": "Gwen Wiscount",
+        "title": "Co-Founder & COO",
+        "organization": "Fabrik"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4153",
+    "day": "Thursday, September 24th, 2026",
+    "time": "9:35 am - 9:55 am",
+    "title": "The 30,000-Unit Experiment",
+    "description": "While most of the industry is still imagining what AI might one day do, one of the country's largest housing developers is already running it across development, construction, and operations. This conversation looks at what the near future of the built world actually looks like when technology stops being a pilot and starts shaping how thousands of homes get built and run.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      },
+      {
+        "name": "Rachel Johnson",
+        "title": "CIO",
+        "organization": "The NRP Group"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4114",
+    "day": "Thursday, September 24th, 2026",
+    "time": "9:55 am - 10:15 am",
+    "title": "Building a City Around a Team",
+    "description": "When an NFL franchise, a master developer, and a county decide to build an entire district from the ground up, the result is far bigger than a headquarters. David O'Reilly takes the stage to share how the 83-acre Toro District™ is reimagining what a sports anchor can do for a community, and what it takes to build a place meant to last for generations.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      },
+      {
+        "name": "David O'Reilly",
+        "title": "CEO",
+        "organization": "Howard Hughes Holdings"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4115",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:15 am - 10:35 am",
+    "title": "The Art of the Adjacent",
+    "description": "The most ambitious builders are no longer staying inside a single industry. Fernando De Leon turned one Texas development company into a holding company spanning real estate, healthcare, and financial services, and he shares how he thinks about capital, conviction, and where the next generation of platforms gets built.",
+    "room": "Marcello Ballroom",
+    "track": "Main Stage",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Gavin Myers",
+        "title": "Managing Partner & Co-Founder",
+        "organization": "Prudence"
+      },
+      {
+        "name": "Fernando De Leon",
+        "title": "CEO",
+        "organization": "Leon Capital Group"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4583",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:30 am - 2:00 pm",
+    "title": "Blueprint Connect Lounge Powered by Inman",
+    "room": "Expo Hall",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4580",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:30 am - 3:00 pm",
+    "title": "Women’s Lounge",
+    "room": "Lando 4202",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4127",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:30 am - 2:00 pm",
+    "title": "Expo Hall Opens",
+    "room": "Expo Hall",
+    "track": "Venetian 5th Floor",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4448",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:45 am - 10:50 am",
+    "title": "BOOST Startup Showcase, presented by Suffolk Technologies – Welcome Remarks",
+    "description": "Suffolk Technologies’ BOOST Startup Showcase will spotlight early-stage companies harnessing hardware, software, and AI to tackle some of the built environment’s toughest challenges. In a series of rapid-fire pitches, founders will share new approaches to field operations, robotics, energy, advanced materials, disaster recovery, and more. Hear what they’re building, what they’re learning through real-world deployment, and where they see the greatest opportunities to change how we build, operate, and manage the built world.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Capital and Funding",
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Ryan O'Connor",
+        "title": "Senior Associate of Emerging Technologies",
+        "organization": "Suffolk Technologies"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4128",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:45 am - 11:20 am",
+    "title": "Bringing It In-House",
+    "description": "Owners are asking a sharper question than whether to centralize. They want to know why they are paying asset management and other fees at all, and what changes when those functions come in-house. This panel puts operators and a major third-party manager on the same stage to work through the real math of internalizing versus paying for scale, and where each one actually protects NOI.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Rob Samuels",
+        "title": "Founder & CEO",
+        "organization": "Clarity Revenue Group"
+      },
+      {
+        "name": "David Walther",
+        "title": "CRO",
+        "organization": "Asset Living"
+      },
+      {
+        "name": "Dana Caudell",
+        "title": "EVP, Head of Multifamily Operations",
+        "organization": "Continental Realty Corporation"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4119",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:45 am - 11:20 am",
+    "title": "From AI Adoption to Enterprise Intelligence: The Multifamily Operator’s Next Competitive Edge",
+    "description": "How the leading multifamily operators are moving beyond AI adoption — building systems that turn data into decisions, automate across the portfolio, and create enterprise-level competitive advantages that didn't exist three years ago.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Jamie Gorski",
+        "title": "Founder",
+        "organization": "Catchpoint Collective"
+      },
+      {
+        "name": "Hope Dunleavy",
+        "title": "Managing Director",
+        "organization": "Newmark RF"
+      },
+      {
+        "name": "Whitney Kidd",
+        "title": "Senior Vice President of Innovation and Technology",
+        "organization": "Preiss"
+      },
+      {
+        "name": "Josh Gampp",
+        "title": "CTO",
+        "organization": "UDR"
+      },
+      {
+        "name": "David Madrid",
+        "title": "Real Estate / Technology / AI Advisor",
+        "organization": ""
+      },
+      {
+        "name": "Kellie Hughes",
+        "title": "Partner and Executive Vice President of Operations",
+        "organization": "Mill Creek Residential"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4155",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:45 am - 10:50 am",
+    "title": "Developer Overview",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Brad Hargreaves",
+        "title": "Founder",
+        "organization": "Thesis Driven"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4550",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:45 am - 11:05 am",
+    "title": "Inside a Modern Luxury Brand",
+    "description": "Luxury real estate is becoming an asset class of its own, where brand, media reach, and high-net-worth relationships drive enterprise value far beyond commission splits. This conversation digs into how you build and scale that kind of business, what it's really worth, and where the growth and investment opportunities sit for anyone building in the space.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Brokerage"
+    ],
+    "speakers": [
+      {
+        "name": "Tom Bohn",
+        "title": "CEO",
+        "organization": "Inman"
+      },
+      {
+        "name": "Mauricio Umansky",
+        "title": "Founder and CEO",
+        "organization": "The Agency"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4452",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:50 am - 10:56 am",
+    "title": "Tessi",
+    "description": "Tessi is an AI-native post-disaster home repair platform that helps assess damage, generate restoration plans, streamline funding, and connect homeowners with trusted repair resources",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Susan Hunt Stevens",
+        "title": "Co-Founder & CEO",
+        "organization": "Tessi"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4547",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:50 am - 11:00 am",
+    "title": "Engineering the Deal: Designing & Building for Certainty",
+    "description": "How development strategy is shaping a new destination in the Texas Hill Country amid market uncertainty.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Hospitality"
+    ],
+    "speakers": [
+      {
+        "name": "Blake Berg",
+        "title": "SVP Development & Construction",
+        "organization": "DC Partners"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4584",
+    "day": "Thursday, September 24th, 2026",
+    "time": "10:56 am - 11:02 am",
+    "title": "Scale Immersive",
+    "description": "Scale Immersive creates mini-model augmented reality and fully immersive, walkable virtual reality experiences that help architecture, real estate, and construction teams walk through a building before they build it.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Tripp Clemens",
+        "title": "Founder & CEO",
+        "organization": "Scale Immersive"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4473",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:00 am - 11:10 am",
+    "title": "Where Technology Meets Affordable Housing",
+    "description": "Affordable housing operates on thin margins and complex compliance requirements, and new technology is starting to expand what's possible. This session explores how technology is addressing real challenges around tax credit compliance and helping residents access the services they need, faster.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Homebuilding"
+    ],
+    "speakers": [
+      {
+        "name": "Amy Stokes",
+        "title": "Principal",
+        "organization": "Kalel Companies"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4453",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:02 am - 11:08 am",
+    "title": "Hardline",
+    "description": "Hardline is a voice-first AI platform built for construction teams, turning jobsite conversations, calls, and meetings into daily logs, RFIs, tasks, and structured project documentation.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Alena Tuttle",
+        "title": "Co-Founder & CEO",
+        "organization": "Hardline"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4450",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:08 am - 11:14 am",
+    "title": "Ouros Materials",
+    "description": "Ouros Materials is transforming captured CO₂ into ultra-tough, low-cost composite building materials designed to reduce environmental impact and improve construction performance.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Teresa Liu",
+        "title": "Co-Founder & CEO",
+        "organization": "Ouros Materials"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4158",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:10 am - 11:20 am",
+    "title": "Developer Presentation",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Dan Doyle",
+        "title": "President & COO",
+        "organization": "The Beach Company"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4132",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:10 am - 11:45 am",
+    "title": "The SSO Race: Inside the Proptech Playbooks of Leading Brokerages",
+    "description": "The race to build the ultimate, single-sign-on real estate ecosystem has reached a fever pitch. During this session, technology leaders driving the industry’s leading brokerages take the stage together. From managing major internal engineering labs to unifying hundreds of thousands of agents onto a single AI-driven platform, these executives share their vision for eliminating software fragmentation. Discover the real ROI behind building proprietary tech moats and what happens to third-party vendors when the titans build natively.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Brokerage"
+    ],
+    "speakers": [
+      {
+        "name": "Kat Winston",
+        "title": "Founder and Managing Partner",
+        "organization": "Equity Angels"
+      },
+      {
+        "name": "Seth Siegler",
+        "title": "Chief Innovation Officer",
+        "organization": "eXp Realty"
+      },
+      {
+        "name": "Courtney Cooper",
+        "title": "Partner, Alate & Head of myVenture, myAbode",
+        "organization": "Alate"
+      },
+      {
+        "name": "Zane Burnett",
+        "title": "EVP of Digital Strategy",
+        "organization": "The Agency"
+      },
+      {
+        "name": "Chris Cox",
+        "title": "Chief Technology and Digital Officer",
+        "organization": "Keller Williams"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4451",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:14 am - 11:20 am",
+    "title": "Puppet Robotics",
+    "description": "Puppet Robotics is building collaborative robotic systems for construction, starting with tools that help crews perform hazardous or skilled trade work through remote operation and autonomy.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Gabe Rodriguez",
+        "title": "Founder & CEO",
+        "organization": "Puppet Robotics"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4449",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:20 am - 11:26 am",
+    "title": "Dig Energy",
+    "description": "Dig Energy develops purpose-built drilling technology to make highly efficient geothermal heating and cooling systems.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Dulcie Madden",
+        "title": "Founder",
+        "organization": "Dig Energy"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4133",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:25 am - 12:00 pm",
+    "title": "Built for Someone Else: How Real Estate Products Are Finally Catching Up to the Retail Investor",
+    "description": "Real estate technology was built in two directions — and both missed the same person. Institutional-grade platforms were engineered for operators managing thousands of units: robust, expensive, and completely inaccessible to a landlord with five homes. Consumer-facing products — home warranty, mortgage, maintenance — were designed around the owner-occupant, the person who lives in the house they bought. And agent-facing platforms built for the top-producing team assumed the end client was a buyer or seller, not a retail investor building a portfolio. Neither cohort was the retail investor: the individual or small partnership owning 1 to 50 rental properties, running a real business, but with none of the infrastructure of an institution and none of the simplicity needs of a homeowner. That gap is closing — but slowly, and often reluctantly. This panel brings together executives from companies whose core product was built for someone else, who are now actively rethinking their roadmap, distribution model, and unit economics to reach a cohort growing faster than any other segment in residential real estate. Where does the consumer mortgage product evolve when the borrower is running a portfolio, not buying a home? Where does the homeowner warranty product break down when there is no owner-occupant? And who ultimately wins the platform war for this retail investor cohort’s wallet?",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "SFR/BTR"
+    ],
+    "speakers": [
+      {
+        "name": "Stefan Shircel",
+        "title": "Principal",
+        "organization": "August Hill"
+      },
+      {
+        "name": "Jes Fields",
+        "title": "Chief Commercial Officer",
+        "organization": "Cinch Home Services"
+      },
+      {
+        "name": "Chris Stuart",
+        "title": "President",
+        "organization": "PLACE Inc."
+      },
+      {
+        "name": "Mike Tamulevich",
+        "title": "Chief Operating Officer",
+        "organization": "Marketplace Homes"
+      },
+      {
+        "name": "Wally Charnoff",
+        "title": "CEO & Founder",
+        "organization": "AbodeMine"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4120",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:25 am - 12:00 pm",
+    "title": "The Maintenance Tech Stack Reset: Less Friction, More NOI",
+    "description": "Maintenance tech only earns its place if it makes the work easier in the field and proves itself in the numbers. We'll get specific on four things: what to cut from your stack because it only adds friction, what to add in the next 90 days that saves time or money and how to prove it, how to get clean notes and photos on every work order without chasing anyone after the fact, and what slows turns down most along with the fastest fix to move units faster.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family"
+    ],
+    "speakers": [
+      {
+        "name": "Adrian Danila",
+        "title": "Founder",
+        "organization": "Multifamily X Consulting"
+      },
+      {
+        "name": "Peter Christenson",
+        "title": "Director of Maintenance & Purchasing",
+        "organization": "Centerspace"
+      },
+      {
+        "name": "Richard Regitano",
+        "title": "Managing Director, Maintenance, Facilities & Engineering",
+        "organization": "Greystar"
+      },
+      {
+        "name": "Erica White",
+        "title": "SVP, Innovation & Technology",
+        "organization": "PeakMade Real Estate"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4340",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:25 am - 12:00 pm",
+    "title": "If AI Commoditizes Leasing, What Makes You Different?",
+    "description": "AI is flattening the renter journey. Same chatbots, same instant tours, same AI-surfaced search results — and when every operator runs the same stack, renters lose the ability to tell anyone apart. If the experience is identical everywhere, what is a property management company even for? This panel takes that question seriously. The operators pulling ahead won't be the ones with the most AI. They'll be the ones who know exactly where to put a human back in. Panelists will get specific about where automation earns its keep — speed, availability, discovery, AEO — and where a real person changes the outcome: the tour that closes, the objection that gets handled, the renewal that almost didn't happen. The future of leasing isn't fully automated. It's deliberately human in the places that count.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Aaron Ru",
+        "title": "Principal",
+        "organization": "RET Ventures"
+      },
+      {
+        "name": "Tyler Christiansen",
+        "title": "CEO and Board Director",
+        "organization": "Funnel"
+      },
+      {
+        "name": "Garrett Hrncir",
+        "title": "Vice President & Chief Customer Experience Officer",
+        "organization": "Continental Properties"
+      },
+      {
+        "name": "Josh Gampp",
+        "title": "CTO",
+        "organization": "UDR"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4576",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:26 am - 11:36 am",
+    "title": "A BOOST Story: Trunk Tools",
+    "description": "Trunk Tools, a BOOST 4 graduate, is the AI intelligence layer for construction. This fireside chat explores how Suffolk Technologies’ BOOST accelerator helped Trunk Tools evolve from SOP Search into a leading suite of purpose-built AI tools for construction. The conversation will highlight how access to operators, job sites, industry data, and subject-matter expertise turns emerging technology into practical solutions that deliver value in the field.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Construction",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Ryan O'Connor",
+        "title": "Senior Associate of Emerging Technologies",
+        "organization": "Suffolk Technologies"
+      },
+      {
+        "name": "Brandon Ramsey",
+        "title": "VP, Customer Experience",
+        "organization": "Trunk Tools"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4454",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:36 am - 11:40 am",
+    "title": "Closing Remarks presented by Suffolk Technologies",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Ryan O'Connor",
+        "title": "Senior Associate of Emerging Technologies",
+        "organization": "Suffolk Technologies"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4394",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:45 am - 12:05 pm",
+    "title": "Inside a VC–Corporate Partnership",
+    "description": "This fireside chat will explore a real-world example of VC–corporate collaboration, highlighting Zacua Ventures’ scout program and Aroundtown’s corporate innovation efforts. The conversation will take a behind-the-scenes look at how the partnership was built, from identifying and evaluating startup opportunities to developing a shared framework for assessing and monitoring emerging companies. Attendees will gain insights into how this collaboration creates value for investors, corporations, founders, and the broader innovation ecosystem.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Cem Mimaroglu",
+        "title": "Partner, Pre-Seed Allocation",
+        "organization": "Zacua Ventures"
+      },
+      {
+        "name": "Antonia Elisa Soler Blasco",
+        "title": "VP of Marketing | Head of Hilti Venture",
+        "organization": "Fieldwire"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4556",
+    "day": "Thursday, September 24th, 2026",
+    "time": "11:50 am - 12:00 pm",
+    "title": "Betting on Vegas: What Housing Demand Says About What Comes Next",
+    "description": "A fast, data-driven read on who is moving to Las Vegas, how the demand profile is shifting, and what it signals for where housing gets built and priced next.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Lauren Alpeyrie",
+        "title": "Co-Founder",
+        "organization": "Build Order"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4122",
+    "day": "Thursday, September 24th, 2026",
+    "time": "12:00 pm - 12:35 pm",
+    "title": "The CTO Reality Check",
+    "description": "Real estate technology leaders face the same AI pressure as everyone else, but they have to actually choose, build, and defend the stack. This panel brings CTOs and technology heads across commercial and residential together on what they are building versus buying, where AI has earned budget, and what they would not do again.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Commercial"
+    ],
+    "speakers": [
+      {
+        "name": "Lilian Chen",
+        "title": "Founder & CEO",
+        "organization": "Proptimal"
+      },
+      {
+        "name": "Jeremy Poteet",
+        "title": "EVP, Technology",
+        "organization": "JBG Smith"
+      },
+      {
+        "name": "Adam Smolyar",
+        "title": "Chief Innovation & Technology Officer",
+        "organization": "American Landmark Apartments"
+      },
+      {
+        "name": "Harshit Shah",
+        "title": "Chief Technology Officer",
+        "organization": "DivCore"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4557",
+    "day": "Thursday, September 24th, 2026",
+    "time": "12:00 pm - 12:30 pm",
+    "title": "Break",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4351",
+    "day": "Thursday, September 24th, 2026",
+    "time": "12:00 pm - 2:00 pm",
+    "title": "Lunch",
+    "room": "Expo Hall",
+    "track": "Venetian 5th Floor",
+    "themes": [],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4124",
+    "day": "Thursday, September 24th, 2026",
+    "time": "12:10 pm - 12:45 pm",
+    "title": "AI Use Cases",
+    "description": "Behind the AI hype are operators quietly using it to solve real problems, from cutting delinquency and auditing every lease to capturing the institutional knowledge that walks out the door when someone retires. This panel digs into what those teams actually built, why some bought and trained an off-the-shelf tool while others co-built their own or skipped AI altogether, and how to tell which approach fits the problem in front of you.",
+    "room": "Expo Hall",
+    "track": "Innovation Stage",
+    "themes": [
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Anne Hollander",
+        "title": "VP, AI & Innovation",
+        "organization": "WinnCompanies"
+      },
+      {
+        "name": "Eric Tsai",
+        "title": "Director of Strategic Initiatives",
+        "organization": "Eden Housing"
+      },
+      {
+        "name": "John Davis",
+        "title": "Assistant Director, Process & Operations",
+        "organization": "Orsid"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4509",
+    "day": "Thursday, September 24th, 2026",
+    "time": "12:15 pm - 1:00 pm",
+    "title": "Roundtables",
+    "description": "You are invited to join exclusive roundtable discussions with top industry leaders.",
+    "room": "Track 2",
+    "track": "Roundtables",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Rob Samuels",
+        "title": "Founder & CEO",
+        "organization": "Clarity Revenue Group"
+      },
+      {
+        "name": "Justin Dilley",
+        "title": "Co-Host & Founder",
+        "organization": "Multifamily Weekend Update"
+      },
+      {
+        "name": "Eric Sharpe",
+        "title": "Co-Host & Executive Producer",
+        "organization": "Multifamily Weekend Update"
+      },
+      {
+        "name": "Ashley James",
+        "title": "Host",
+        "organization": "Gadgets, Grit & Growth"
+      },
+      {
+        "name": "Sarah Yaussi",
+        "title": "Head of Strategic Partnerships and Member Engagement",
+        "organization": "Real Estate Technology & Transformation Center (RETTC)"
+      },
+      {
+        "name": "Julianne Goodfellow",
+        "title": "Head of Community and Policy",
+        "organization": "Real Estate Technology & Transformation Center (RETTC)"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4117",
+    "day": "Thursday, September 24th, 2026",
+    "time": "12:30 pm - 1:20 pm",
+    "title": "Blueprint Women’s Lunch: The Power of Being Human",
+    "description": "In an industry racing to automate, these leaders make the case for the one thing technology can’t replicate: authentic relationships, trust, and judgment that turn tools into adoption and buildings into communities. Through their own stories, they’ll show why relationship-building isn’t a soft skill but hard business infrastructure and increasingly the real competitive edge.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [],
+    "speakers": [
+      {
+        "name": "Laura Monroe",
+        "title": "Founder & Principal Advisor",
+        "organization": "Marque & Co."
+      },
+      {
+        "name": "Lisa Nickerson",
+        "title": "CEO",
+        "organization": "Infinityy"
+      },
+      {
+        "name": "Courtney Cooper",
+        "title": "Partner, Alate & Head of myVenture, myAbode",
+        "organization": "Alate"
+      },
+      {
+        "name": "Cheryl King",
+        "title": "VP Business Development & Operations",
+        "organization": "Fidelity"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4551",
+    "day": "Thursday, September 24th, 2026",
+    "time": "12:30 pm - 1:15 pm",
+    "title": "Deal Tables",
+    "description": "Grab lunch, pick a table, pull up a chair, and get into the conversations that move your business. Two rounds, two topics, real talk about what actually works. 1.) Brokerage Tech Stack: What's in the stack, what's ripping out, and what's finally earning its cost. 2.) Lead-to-Close: Where deals stall and how top teams shorten the path from first touch to signature. 3.) Agent Recruiting and Retention: What pulls agents in, what makes them stay, and what quietly drives them out. 4.) Local Market Plays: The moves working in your market right now and the ones worth stealing from someone else's. 5.) What's Breaking Right Now: The open table for whatever's on fire this week, no agenda, all signal.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Brokerage"
+    ],
+    "speakers": []
+  },
+  {
+    "sessionId": "blueprint-2026-4552",
+    "day": "Thursday, September 24th, 2026",
+    "time": "1:20 pm - 1:55 pm",
+    "title": "What Vegas Agents Deal With, and Why You Should Care",
+    "description": "Las Vegas practitioners are working a market defined by constrained land, rising insurance and HOA costs, heavy new-construction competition and buyers who move in from more expensive states with very different expectations. This panel puts those day-to-day realities in front of the people building products, running brokerages and putting up houses because the workarounds agents are inventing in the valley are the roadmap for what the Sun Belt needs next.",
+    "room": "Palazzo A",
+    "track": "Track 4",
+    "themes": [
+      "Brokerage"
+    ],
+    "speakers": [
+      {
+        "name": "Tom Bohn",
+        "title": "CEO",
+        "organization": "Inman"
+      },
+      {
+        "name": "Geoffrey Lavell",
+        "title": "Vice President",
+        "organization": "Las Vegas REALTORS®"
+      },
+      {
+        "name": "Mahsheed Parsons",
+        "title": "CEO/Founder",
+        "organization": "Mahsheed Real Estate"
+      },
+      {
+        "name": "Avi Dan-Goor",
+        "title": "Licensed Real Estate Salesperson, Nevada",
+        "organization": "Douglas Elliman"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4352",
+    "day": "Thursday, September 24th, 2026",
+    "time": "2:00 pm - 2:35 pm",
+    "title": "Tech That Works (and Tech That Doesn’t): An Owner-Operator Perspective",
+    "description": "Technology should simplify operations, but for many owner-operators, it often creates new challenges. Hear an honest discussion on the biggest technology pain points facing owners and operators today, what solutions are delivering real value, and where the industry still has work to do.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Retail"
+    ],
+    "speakers": [
+      {
+        "name": "Hue Chen",
+        "title": "CEO & President",
+        "organization": "Saglo Companies"
+      },
+      {
+        "name": "Andy Chien",
+        "title": "President & Co-founder",
+        "organization": "Bridge33 Capital"
+      },
+      {
+        "name": "Daniel Radek",
+        "title": "President",
+        "organization": "First Washington Realty, Inc."
+      },
+      {
+        "name": "Kevin Kush",
+        "title": "President",
+        "organization": "PMAT Companies"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4154",
+    "day": "Thursday, September 24th, 2026",
+    "time": "2:00 pm - 2:35 pm",
+    "title": "To DIY or not To DIY with AI",
+    "description": "Every owner and operator is exploring AI’s capabilities and the potential use in their organization. Some are exploring the opportunity to replace existing enterprise applications with the goal of reducing costs or internalizing technology. AI provides many opportunities to gain efficiencies and expand analytical capabilities to a degree never seen in our industry, but can be a very slippery slope without extensive enterprise platform and data security knowledge, and often overlooks the ongoing cost to maintain and update. Our goal with the panel is to highlight opportunities with examples from each of the panel members, make people aware of the security, hallucination and integration concerns that may arise and highlight ongoing cost of “easily” developing a platform (sort of an extended buy versus build discussion that will touch on the concept of tokens). We would like the panel to be positive towards the use of AI, as it is the present and the future, but also create awareness around the pitfalls and why some things are better left to technology-focused teams.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Mark Chrisman",
+        "title": "Founder",
+        "organization": "Varro Capital"
+      },
+      {
+        "name": "Angel Baltimore",
+        "title": "SVP, Information Technology",
+        "organization": "NAA"
+      },
+      {
+        "name": "Mike Varga",
+        "title": "CTO",
+        "organization": "Varro Technology"
+      },
+      {
+        "name": "Zac Menzer",
+        "title": "VP Enterprise Initiatives",
+        "organization": "White Oak Partners"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4123",
+    "day": "Thursday, September 24th, 2026",
+    "time": "2:00 pm - 2:35 pm",
+    "title": "Following the Venture Dollars",
+    "description": "Built-world venture has been through a full cycle, and where it deploys now looks very different from the peak. This panel puts active investors on stage to say plainly what they are funding, what they are passing on, and how the bar has changed for anyone building in the space. Less prediction theater, more candor about what earns a check today.",
+    "room": "Palazzo B",
+    "track": "Track 3",
+    "themes": [
+      "Capital and Funding"
+    ],
+    "speakers": [
+      {
+        "name": "Matt Boras",
+        "title": "Managing Director & Head of the RADV Fund",
+        "organization": "RXR"
+      },
+      {
+        "name": "David Weiden",
+        "title": "Founding Partner & Managing Director",
+        "organization": "Khosla Ventures"
+      },
+      {
+        "name": "TX Zhuo",
+        "title": "General Partner",
+        "organization": "Fika Ventures"
+      },
+      {
+        "name": "Andreas Winter-Extra",
+        "title": "Operating Partner",
+        "organization": "KOMPAS VC"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4121",
+    "day": "Thursday, September 24th, 2026",
+    "time": "2:40 pm - 3:15 pm",
+    "title": "Gigafactory or Microfactory For Cheaper Housing",
+    "description": "What is the path to cheaper housing construction? After centuries of attempts, 30-plus prefab ventures since the 1970s, and billions invested, offsite construction has never beaten the cost of framing a house by hand. Our debate asks whether that's a failure of execution, where a better centralized factory model finally cracks the cost problem, or is a failure of the model itself, where the future belongs to a shippable microfactory that moves to the jobsite instead of trucking bulky panels from a distant plant.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Homebuilding",
+      "Construction"
+    ],
+    "speakers": [
+      {
+        "name": "Nick Durham",
+        "title": "General Partner",
+        "organization": "Shadow Ventures"
+      },
+      {
+        "name": "Mollie Claypool",
+        "title": "Co-Founder and CEO",
+        "organization": "AUAR"
+      },
+      {
+        "name": "Aleks Gampel",
+        "title": "Co-Founder & COO",
+        "organization": "Cuby Technologies, Inc."
+      },
+      {
+        "name": "Riley Meik",
+        "title": "CEO and Co-Founder",
+        "organization": "The American Housing Corporation (AHC)"
+      },
+      {
+        "name": "Alexey Dubov",
+        "title": "Founder",
+        "organization": "BuildTech Ventures"
+      },
+      {
+        "name": "Vikas Enti",
+        "title": "Co-founder & CEO",
+        "organization": "Reframe Systems"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4446",
+    "day": "Thursday, September 24th, 2026",
+    "time": "2:40 pm - 3:15 pm",
+    "title": "Where Have the Renters Gone? How AI Is Rewriting Search in Real Estate",
+    "description": "Search is shifting. SEO is stagnating, AI assistants are rising, and the way renters find homes is being rewritten in real time. In this session, real estate technology leaders unpack how ChatGPT and large language models are reshaping renter discovery, and what that means for marketing, visibility, and lead generation. Together, they’ll explore what’s driving traffic declines, how AI is influencing renter intent, and what operators must do to stay discoverable in the next era of search.",
+    "room": "Palazzo C",
+    "track": "Track 2",
+    "themes": [
+      "Multi-family",
+      "AI & Robotics"
+    ],
+    "speakers": [
+      {
+        "name": "Anthemos Georgiades",
+        "title": "Co-Founder & Chairman",
+        "organization": "Zumper"
+      },
+      {
+        "name": "Max Steinmann",
+        "title": "CEO",
+        "organization": "RentSync"
+      },
+      {
+        "name": "Jasman Singh",
+        "title": "Lead AI Analyst",
+        "organization": "Profound"
+      },
+      {
+        "name": "Ryan Perez",
+        "title": "EVP, Head of Capital Square Living",
+        "organization": "Capital Square Living"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4568",
+    "day": "Thursday, September 24th, 2026",
+    "time": "3:20 pm - 3:55 pm",
+    "title": "Experience as the Anchor: The New Operating Model for Mixed-Use",
+    "description": "The next generation of mixed-use destinations is being anchored not by traditional retail or office uses, but by sports, entertainment, cultural attractions and immersive concepts that give people a reason to visit and return. This panel will explore how owners are moving beyond four-wall leases to curate, program and directly operate these experience-driven destinations, integrating real estate with events, hospitality and entertainment to generate multiple revenue streams. Drawing on Seaport Entertainment Group’s owner-operator platform and Gensler’s extensive work across experiential projects—including Greg Ashton’s more than 25 years with Disney Imagineering—the discussion will also examine how design enables ongoing activation, operational flexibility and long-term relevance.",
+    "room": "Palazzo D",
+    "track": "Track 1",
+    "themes": [
+      "Retail"
+    ],
+    "speakers": [
+      {
+        "name": "Edwin Hendriksen",
+        "title": "Managing Partner",
+        "organization": "&Partners Capital"
+      },
+      {
+        "name": "Greg Ashton",
+        "title": "Design Director",
+        "organization": "Gensler"
+      },
+      {
+        "name": "Matt Partridge",
+        "title": "President & CEO",
+        "organization": "Seaport Entertainment Group"
+      }
+    ]
+  },
+  {
+    "sessionId": "blueprint-2026-4510",
+    "day": "Thursday, September 24th, 2026",
+    "time": "7:00 pm - 10:00 pm",
+    "title": "Official After Party",
+    "description": "Event Badge & ID Required! Business Casual All bags and guests are subject to physical security screening and metal detectors upon entry.",
+    "room": "TAO",
+    "track": "Networking",
+    "themes": [],
+    "speakers": []
+  }
+]
